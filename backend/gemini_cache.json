@@ -1,0 +1,774 @@
+{
+  "Peach___Bacterial_spot": {
+    "crop": "आड़ू (Aadu - Peach)",
+    "disease": "जीवाणु धब्बा रोग (Jeevanu Dhabba Rog - Bacterial Spot)",
+    "cause": "यह एक प्रकार के जीवाणु (bacteria) के कारण होता है, जो अक्सर गरम और गीले मौसम में तेजी से फैलता है।",
+    "symptoms": [
+      "पत्तों पर छोटे, काले, पानी से भीगे हुए धब्बे दिखते हैं, जो बाद में भूरे या बैंगनी हो जाते हैं और कभी-कभी पत्तों में छेद भी बन जाते हैं।",
+      "फल पर भी काले, धंसे हुए धब्बे (sunken spots) पड़ जाते हैं और कभी-कभी फल फट भी जाते हैं।",
+      "टहनियों पर घाव (cankers) भी बन सकते हैं और पत्ते समय से पहले झड़ने लगते हैं।"
+    ],
+    "organic_treatment": [
+      "संक्रमित पत्ते, फल और टहनियाँ तुरंत तोड़कर खेत से दूर जला दें या मिट्टी में गहरा दबा दें।",
+      "तांबा आधारित फफूंदनाशक (Copper-based fungicide) जैसे कि बोर्डो मिश्रण (Bordeaux mixture) का छिड़काव करें। यह जीवाणु को भी नियंत्रित करता है।",
+      "नीम का तेल (Neem oil) 5 ml प्रति लीटर पानी में मिलाकर 7-10 दिनों के अंतराल पर छिड़काव कर सकते हैं, यह पौधों की प्रतिरोधक क्षमता बढ़ाता है।"
+    ],
+    "chemical_treatment": [
+      "कॉपर ऑक्सीक्लोराइड (Copper Oxychloride) 2-3 ग्राम प्रति लीटर पानी में मिलाकर छिड़काव करें।",
+      "या फिर, स्ट्रेप्टोमाइसिन सल्फेट (Streptomycin Sulphate) 0.5 ग्राम प्रति लीटर पानी में मिलाकर छिड़काव करें, लेकिन इसका उपयोग सावधानी से करें।",
+      "छिड़काव करते समय, हमेशा दस्ताने (gloves) और मास्क (mask) पहनें। तेज धूप में छिड़काव न करें।"
+    ],
+    "prevention": [
+      "हमेशा स्वस्थ और रोग-मुक्त पौधे लगाएं।",
+      "खेत को साफ रखें और पुरानी संक्रमित पत्तियाँ, फल और टहनियाँ तुरंत हटाते रहें।",
+      "पौधों के बीच सही दूरी रखें ताकि हवा और धूप अच्छी मिले, जिससे नमी कम हो।",
+      "सूखे मौसम में ही छंटाई (pruning) करें और औजारों को इस्तेमाल करने से पहले और बाद में कीटाणुरहित करें।"
+    ],
+    "extra_tip": "रोग के लक्षण दिखते ही तुरंत उपचार करें ताकि यह और अधिक न फैले। संतुलित खाद का प्रयोग करें और नाइट्रोजन वाली खाद का अधिक उपयोग करने से बचें।",
+    "warning": "दवाई छिड़कते समय हमेशा दस्ताने और मास्क पहनें। तेज धूप में छिड़काव न करें। अगर रोग ज्यादा फैल जाए या नियंत्रित न हो, तो अपने नजदीकी कृषि विज्ञान केंद्र (Krishi Vigyan Kendra) या कृषि अधिकारी (agriculture officer) से सलाह लें।"
+  },
+  "Orange___Haunglongbing_(Citrus_greening)": {
+    "crop": "Orange",
+    "disease": "Huanglongbing (Citrus greening)",
+    "cause": "Ye ek bacteria se hone wali bimari hai, jo 'Asian Citrus Psyllid' naam ke chote keede se ek ped se doosre ped mein failti hai. (This is a bacterial disease, spread from one tree to another by a small insect called 'Asian Citrus Psyllid').",
+    "symptoms": [
+      "Patton par peele rang ke dhabbe (asymmetrical mottling), jo ek jaisi nahi hote aur veining ke paas zyada dikhte hain. (Yellow spots on leaves, asymmetrical, prominent near veins).",
+      "Fasal choti, tedhi-medhi aur kadwi ho jaati hai, aur samay se pehle gir jaati hai. (Fruit become small, misshapen, bitter, and drop prematurely).",
+      "Pura ped kamjor dikhta hai, patte pila-hara rang le lete hain aur ped marne lagta hai. (The whole tree looks weak, leaves turn yellowish-green and the tree starts dying)."
+    ],
+    "organic_treatment": [
+      "Jo ped bahut zyada bimar hain, unhe turant kaat kar hata dein aur jala dein. Isse bimari failne se rukegi. (Immediately cut and remove highly infected trees and burn them. This will stop the disease from spreading).",
+      "Neem tel (Neem Oil) ka spray karein, 5-7 ml/liter paani mein mila kar, taaki bimari failane wale keede (psyllids) control ho sakein. (Spray Neem oil, 5-7 ml/liter water, to control the disease-spreading insects (psyllids)).",
+      "Apne baag mein ladybug aur lacewings jaise mitr keede (beneficial insects) badhayein, jo psyllids ko khate hain. (Encourage beneficial insects like ladybugs and lacewings in your orchard, which eat psyllids)."
+    ],
+    "chemical_treatment": [
+      "Psyllids (keede) ko control karne ke liye systemic insecticide jaise Imidacloprid (17.8% SL) 0.5 ml prati liter paani mein mila kar spray karein. (To control psyllids, spray systemic insecticide like Imidacloprid (17.8% SL) mixed 0.5 ml per liter water).",
+      "Spray karte samay dhyan rakhein ki pure ped par achhe se cover ho, khaas kar naye patton aur shakhon par. (While spraying, ensure good coverage on the whole tree, especially new leaves and shoots).",
+      "Hamesha dastaane (gloves) aur mask pehnein. Tez dhoop mein spray na karein. (Always wear gloves and a mask. Do not spray in strong sunlight)."
+    ],
+    "prevention": [
+      "Hamesha certified, bimari-mukt (disease-free) paudhe lagayein, jo government nursery ya bharosemand source se milte hain. (Always plant certified, disease-free saplings from government nurseries or trusted sources).",
+      "Apne baag ki niyamit jaanch karte rahein. Agar koi psyllid ya bimari ke lakshan dikhein, turant upaay karein. (Regularly inspect your orchard. If any psyllids or disease symptoms appear, take immediate action).",
+      "Baag ko saaf-suthra rakhein. Kude-karkat aur patton ko hata dein, jahan keede chhip sakte hain aur rog fail sakta hai. (Keep the orchard clean. Remove debris and leaves where insects can hide and disease can spread)."
+    ],
+    "extra_tip": "Healthy ped bimariyon se ladne ki zyada shakti rakhte hain. Isliye, pedon ko sahi khaad, paani aur dekhbhal dein. Regular pruning (chhatayi) bhi faydemand hai. (Healthy trees have more power to fight diseases. So, give trees proper fertilizer, water, and care. Regular pruning is also beneficial).",
+    "warning": "Koi bhi chemical spray karte samay poori suraksha (gloves, mask) ka dhyan rakhein. Bachchon aur jaanwaron ko dur rakhein. Agar bimari bahut zyada badh jaaye, toh turant apne nazdiki Krishi Vigyan Kendra (KVK) ya agriculture officer se sampark karein."
+  },
+  "Corn_(maize)___healthy": {
+    "crop": "Corn (Maize)",
+    "disease": "Healthy",
+    "cause": "Aapki fasal swasth hai! Yeh achhi kheti ki practice aur sahi dekhbhaal ka nateeja hai. (Your crop is healthy! This is a result of good farming practices and proper care.)",
+    "symptoms": [
+      "Pattiyan gehri hari aur chamakdar hain (Leaves are deep green and lustrous)",
+      "Poudhe mazboot aur swasth dikh rahe hain (Plants look strong and healthy)",
+      "Koi rog ya keet ke nishan nahi hain (No signs of disease or pests)"
+    ],
+    "organic_treatment": [
+      "Mitti ki sehat banaye rakhein: Samay-samay par gobar ki khaad (FYM) ya vermicompost jaisi organic khaad daalte rahein. (Maintain soil health: Periodically add organic fertilizers like farmyard manure or vermicompost.)",
+      "Pani ka sahi prabandhan: Zameen mein paryapt nami banaye rakhein, khaas kar phool aane aur dane bharne ke samay. (Proper water management: Maintain adequate soil moisture, especially during flowering and grain-filling stages.)",
+      "Khushbu (weeds) niyantran: Kheton se khushbu ko haath se ya mulching dwara hatate rahein, taaki poshak tatvo ki takkar na ho. (Weed control: Remove weeds from the field manually or through mulching to avoid nutrient competition.)"
+    ],
+    "chemical_treatment": [
+      "Healthy fasal ke liye kisi rog naashak chemical ki zaroorat nahi hai. (No disease-specific chemical treatment is needed for a healthy crop.)",
+      "Agar aapko koi keet ya anya poshak tatva ki kami dikhe, tabhi Krishi Vigyan Kendra (KVK) ya sthaniya krishi adhikari se salah lein. (If you notice any pest or nutrient deficiency, only then consult Krishi Vigyan Kendra (KVK) or local agriculture officer.)",
+      "Anavashyak roop se chemical sprays se bachein. (Avoid unnecessary chemical sprays.)"
+    ],
+    "prevention": [
+      "Fasal chakra apnayein: Ek hi zameen par har saal makka na lagayein. Dusri faslon ke saath badalte rahein. (Practice crop rotation: Do not plant corn on the same land every year. Rotate with other crops.)",
+      "Swasth beej ka upyog karein: Hamesha certified aur rog-pratirodhak kismon ke beej hi boein. (Use healthy seeds: Always sow certified and disease-resistant varieties of seeds.)",
+      "Khet ki safai: Fasal kaatne ke baad bache hue paudhe ke avshesh (crop debris) ko hata dein aur nast kar dein, taaki rog ke beej na panpein. (Field sanitation: After harvesting, remove and destroy crop debris to prevent disease spores from developing.)",
+      "Niyantrit poshak tatva prabandhan: Mitti ki jaanch ke aadhaar par NPK aur sookshma poshak tatvon ka santulit upyog karein. (Controlled nutrient management: Based on soil testing, use balanced NPK and micronutrients.)",
+      "Niyamit nigrani: Apni fasal ka niyamit roop se jaiza lete rahein, taaki kisi bhi keet ya rog ke shuruaati lakshan ko pehchana ja sake. (Regular monitoring: Regularly inspect your crop to identify any early signs of pests or diseases.)"
+    ],
+    "extra_tip": "Bahut achha kaam! Aapki fasal swasth hai. Aise hi achhi kheti karte rahein aur niyamit roop se fasal ki dekhbhaal karte rahein. (Excellent work! Your crop is healthy. Keep up the good farming practices and regular crop care.)",
+    "warning": "Jab bhi kisi chemical ka upyog karein, hamesha dastane (gloves) aur mask pehnein. Tez dhoop mein spray na karein. Agar bhavishya mein koi gambhir samasya aati hai ya aapko koi rog ke lakshan dikhte hain, toh turant apne nazdeeki Krishi Vigyan Kendra (KVK) ya sthaniya krishi adhikari se salah lein. (Whenever using any chemical, always wear gloves and a mask. Do not spray in strong sunlight. If any severe problem arises in the future or you notice any disease symptoms, immediately consult your nearest Krishi Vigyan Kendra (KVK) or local agriculture officer.)"
+  },
+  "Apple___Cedar_apple_rust": {
+    "crop": "Apple (सेब)",
+    "disease": "Cedar Apple Rust (सेब-देवदार रस्ट)",
+    "cause": "यह एक फंगल बीमारी है जो 'Gymnosporangium juniperi-virginianae' नामक फंगस के कारण होती है। इसे अपना जीवन चक्र पूरा करने के लिए सेब के पेड़ और आसपास के जुनिपर या देवदार (cedar) के पेड़ों दोनों की ज़रूरत होती है।",
+    "symptoms": [
+      "सेब के पत्तों के ऊपर नारंगी या पीले रंग के धब्बे दिखते हैं।",
+      "बाद में इन धब्बों के बीच छोटे काले बिंदु भी आ जाते हैं और पत्तों के नीचे की तरफ ट्यूब जैसे ढाँचे बनते हैं।",
+      "फल और टहनियों पर भी घाव (lesions) हो सकते हैं।",
+      "पास के देवदार/जुनिपर पेड़ों पर पीले-नारंगी, जेली जैसे सींग (galls) दिख सकते हैं, खासकर बारिश के बाद।"
+    ],
+    "organic_treatment": [
+      "जो पत्तियाँ या टहनियाँ संक्रमित हैं, उन्हें काटकर हटा दें और जला दें या दूर फेंक दें। (Prune and destroy affected parts)",
+      "नीम का तेल (Neem oil) 5-7 ml प्रति लीटर पानी में मिलाकर स्प्रे करें।",
+      "सल्फर आधारित फंगीसाइड (Sulfur-based fungicide) का उपयोग करें, जैसे 2-3 ग्राम प्रति लीटर पानी।"
+    ],
+    "chemical_treatment": [
+      "बीमारी के शुरुआती चरणों में Myclobutanil (मायक्लोब्यूटानिल) जैसे फंगीसाइड का उपयोग करें। इसकी मात्रा 0.5-1 ml प्रति लीटर पानी हो सकती है, उत्पाद के लेबल के अनुसार।",
+      "Propiconazole (प्रोपिकोनाज़ोल) भी एक अच्छा विकल्प है, 0.5 ml प्रति लीटर पानी का घोल बनाकर स्प्रे करें।",
+      "स्प्रे करते समय हमेशा हाथ के दस्ताने (gloves) और मास्क (mask) पहनें। तेज धूप में स्प्रे न करें।"
+    ],
+    "prevention": [
+      "सेब की ऐसी किस्में लगाएँ जो इस बीमारी के प्रति प्रतिरोधी हों (resistant varieties)।",
+      "अपने बगीचे से लगभग 2 किलोमीटर के दायरे में मौजूद जुनिपर या देवदार के पेड़ों को हटा दें, यदि संभव हो।",
+      "नियमित रूप से पेड़ों का निरीक्षण करें और तुरंत संक्रमित हिस्सों को हटा दें।"
+    ],
+    "extra_tip": "यह बीमारी जुनिपर/देवदार के पेड़ों से शुरू होकर हवा से सेब के पेड़ों तक पहुँचती है। इसलिए इन दोनों पेड़ों को दूर रखना बहुत ज़रूरी है ताकि रोग का जीवन चक्र टूट जाए।",
+    "warning": "रासायनिक दवाओं का उपयोग करते समय सभी सुरक्षा निर्देशों का पालन करें। अगर बीमारी बहुत ज़्यादा फैल गई है या नियंत्रण में नहीं आ रही है, तो तुरंत अपने स्थानीय कृषि अधिकारी या कृषि विज्ञान केंद्र (Krishi Vigyan Kendra) से सलाह लें।"
+  },
+  "Grape___Black_rot": {
+    "crop": "अंगूर (Grape)",
+    "disease": "ब्लैक रॉट (Black Rot)",
+    "cause": "यह एक फंगस (fungus) की वजह से होने वाली बीमारी है जो नमी और गर्म मौसम में तेजी से फैलती है।",
+    "symptoms": [
+      "पत्तों पर छोटे, गोल, लाल-भूरे धब्बे दिखेंगे, जिनके बीच में अक्सर काला बिंदु (काला घेरा) होता है।",
+      "अंगूर के दानों पर पहले हल्के भूरे धब्बे आते हैं, फिर वे बड़े होकर काले पड़ जाते हैं और सिकुड़ कर कठोर, सूखे हुए 'मम्मी' जैसे बन जाते हैं।",
+      "नई टहनियों और बेलों पर भी काले, लंबे घाव (lesions) दिख सकते हैं।"
+    ],
+    "organic_treatment": [
+      "नीम का तेल (Neem oil) 5 ml प्रति लीटर पानी में मिलाकर स्प्रे करें। यह फंगस को बढ़ने से रोकता है।",
+      "बेकिंग सोडा का घोल (1 चम्मच बेकिंग सोडा + 1 चम्मच लिक्विड साबुन प्रति लीटर पानी) बनाकर हर 7-10 दिन में छिड़काव करें।",
+      "संक्रमित पत्तों, टहनियों और खराब हुए दानों को तुरंत काटकर खेत से दूर ले जाकर नष्ट कर दें या जला दें।"
+    ],
+    "chemical_treatment": [
+      "मैनकोजेब (Mancozeb) 2.5 ग्राम प्रति लीटर पानी में मिलाकर छिड़काव करें।",
+      "कॉपर ऑक्सीक्लोराइड (Copper Oxychloride) 2.5-3 ग्राम प्रति लीटर पानी में घोलकर स्प्रे करें।",
+      "टेबुकोनाजोल (Tebuconazole) 1 मिलीलीटर प्रति लीटर पानी में मिलाकर छिड़काव करें।"
+    ],
+    "prevention": [
+      "खेत को हमेशा साफ रखें। जमीन पर गिरे हुए पत्ते और सूखे हुए अंगूर के दानों को हटाकर नष्ट कर दें।",
+      "बेलों की सही तरीके से कटाई-छंटाई (pruning) करें ताकि उनमें हवा और धूप अच्छी तरह लग सके, जिससे नमी कम हो।",
+      "संभव हो तो रोग प्रतिरोधी (disease-resistant) अंगूर की किस्मों का चुनाव करें।"
+    ],
+    "extra_tip": "बारिश के मौसम में या जब खेत में नमी (humidity) ज्यादा हो, तो इस रोग का खतरा बढ़ जाता है। ऐसे समय में बेलों की निगरानी (monitoring) और ज्यादा ध्यान रखें।",
+    "warning": "केमिकल (दवाओं) का इस्तेमाल करते समय हमेशा हाथ के दस्ताने (gloves) और मास्क (mask) पहनें। तेज धूप में या बारिश होने की संभावना हो तो छिड़काव न करें। छिड़काव के बाद कुछ दिन तक खेत में बच्चों और जानवरों को न आने दें। अगर रोग बहुत ज्यादा फैल जाए और काबू न हो, तो तुरंत अपने स्थानीय कृषि अधिकारी या कृषि विज्ञान केंद्र (Krishi Vigyan Kendra) से संपर्क करें।"
+  },
+  "Potato___Early_blight": {
+    "crop": "Potato",
+    "disease": "Early Blight (आगाती झुलसा)",
+    "cause": "Alternaria solani naam ka fungus (कवक)",
+    "symptoms": [
+      "Puraane patto (older leaves) par chote, gol, gahre bhoore dhabbe (spots) dikhenge, jinmein concentric rings hote hain, jaise bull's-eye pattern.",
+      "Dhabbe bade hokar poore patte ko sukha sakte hain aur paudha kamzor ho jata hai.",
+      "Tanon aur alu (tubers) par bhi gehre, thoda dhase hue dhabbe aa sakte hain."
+    ],
+    "organic_treatment": [
+      "Neem oil (नीम का तेल) 5 ml/liter pani mein ghol kar 7-10 din ke antar par spray karein.",
+      "Trichoderma viride ya Pseudomonas fluorescens jaise bio-fungicides (जैव-कवकनाशी) ka upyog karein, jameen mein ya foliar spray ke roop mein.",
+      "Healthy plant ke liye gobar ki khaad (cow dung manure) aur sahi poshan dein, jisse rog se ladne ki shakti badhe."
+    ],
+    "chemical_treatment": [
+      "Mancozeb (मैंकोजेब) 75% WP ko 2.5 gram prati liter pani mein milakar spray karein. Ya Chlorothalonil (क्लोरोथालोनिल) 75% WP ko 2 gram prati liter pani mein upyog karein.",
+      "Spray karte samay hamesha dastaane (gloves) aur mask pehnein, aur hawa ke vipareet disha mein spray na karein.",
+      "Subah ya sham ko jab dhoop kam ho tabhi spray karein, tez dhoop mein spray na karein."
+    ],
+    "prevention": [
+      "Rog-pratirodhak kismein (disease-resistant varieties) ugayein.",
+      "Khet mein sahi fasal chakra (crop rotation) apnayein, ek hi jagah baar-baar alu na lagayein.",
+      "Patiyon ko zameen se upar rakhein aur sahi faslon ki doori (plant spacing) banayein rakhein, taaki hawa ka sanchalan accha ho aur nami na ruke.",
+      "Khet se purane paudhe ke avshesh (plant debris) aur kharab patte hata kar saaf rakhein aur unko jala dein ya gaad dein."
+    ],
+    "extra_tip": "Plant ki immunity badhane ke liye balanced NPK fertilizer ka upyog karein aur zameen mein acchi drainage banaye rakhein. Pato par pani dene se bachein, drip irrigation behtar hai.",
+    "warning": "Hamesha suraksha saavdhaniyan (safety precautions) apnayein, jaise dastaane aur mask pehanna. Chemical ka upyog karte samay label par diye gaye nirdesho ka palan karein. Agar bimari gambhir roop le le, to turant apne sthaniya krishi adhikari (local agriculture officer) ya Krishi Vigyan Kendra (KVK) se sampark karein."
+  },
+  "Potato___Late_blight": {
+    "crop": "Aaloo (Potato)",
+    "disease": "Late Blight (Pichheti Jhulsa)",
+    "cause": "Yeh ek फफूंद (fungal) bimari hai jo 'Phytophthora infestans' naam ke फफूंद se hoti hai, jab mausam thanda aur nam (humid) hota hai, especially barish ke baad.",
+    "symptoms": [
+      "Patton par gehre bhoore (dark brown) ya kaale (black) paani jaise dhabbe (watery spots) dikhte hain, jo aksar kinaron ya nook par shuru hote hain.",
+      "Patto ke neeche ki taraf safed rang ki powdery growth (फफूंद ki parat) dikh sakti hai, khaas kar subah ki os (dew) mein.",
+      "Tane (stem) par bhi kaale dhabbe padte hain aur woh galne lagta hai.",
+      "Aaloo ke kandon (tubers) par bhi bhoore-laal rang ke dhabbe aur andar se sadan (rot) shuru ho jaati hai."
+    ],
+    "organic_treatment": [
+      "Jitne bhi beemar patte, tane ya poore paudhe dikhein, unhein turant khet se nikaal kar jalaa dein ya mitti mein gehra daba dein.",
+      "Neem tel (Neem oil) ka spray karein (5-10 ml per litre paani) shuruati daur mein, yeh bimari ko badhne se rok sakta hai.",
+      "Bordeaux mixture (Bordo mix) ka spray karein (1%) – yeh ek traditional aur effective organic solution hai. Paani kam ho to Copper Hydroxide (Organic mein allowed) 2.5 gram/litre paani mein mila kar spray karein."
+    ],
+    "chemical_treatment": [
+      "Mancozeb 75% WP (जैसे Dithane M-45) ka spray karein 2 gram per litre paani mein. Yeh ek contact fungicide hai.",
+      "Zyada severe hone par, systemic aur contact fungicide ka combination use karein jaise Metalaxyl 8% + Mancozeb 64% WP (जैसे Ridomil Gold) 2.5 gram per litre paani mein.",
+      "Copper Oxychloride 50% WP (जैसे Blitox) ka spray karein 3 gram per litre paani mein. Yeh bhi effective hai."
+    ],
+    "prevention": [
+      "Hamesha beej-mukt (disease-free) aur certified Aaloo ke beej (tubers) hi use karein.",
+      "Paudhon ke beech sahi doori rakhein (adequate spacing) taaki hawa ka sanchalan (air circulation) achha ho aur patte jaldi sookh jaayen.",
+      "Khet mein paani ikattha na hone dein (good drainage). Subah ke samay sinchai karein taaki sham tak patte sookh jaayen, upar se paani dene se bachein (avoid overhead irrigation).",
+      "Fasal chakra (crop rotation) apnayein – har saal ek hi khet mein aaloo na lagayein, doosri faslein ugayein."
+    ],
+    "extra_tip": "Khet ki saaf-safai (field sanitation) ka khaas khayal rakhein. Khet mein pade purane fasal ke avshesh (crop debris) ko hata dein. Tools ko bhi saaf rakhein.",
+    "warning": "Koi bhi dawa spray karte samay, hamesha dastane (gloves) aur mask pehnein. Khali pet spray na karein. Tej dhoop (strong sunlight) mein spray karne se bachein, subah ya sham ko hi spray karein. Dawaon ko bachchon aur jaanwaron se door rakhein. Agar bimari bahut zyada badh jaaye, to turant apne nikatam Krishi Vigyan Kendra (KVK) ya sthaniya Krishi Adhikari (local agriculture officer) se salaah lein."
+  },
+  "Potato___Late_blight_hi": {
+    "crop": "आलू",
+    "disease": "पिछेती झुलसा",
+    "cause": "फफूंद (फाइटोफ्थोरा इन्फेस्टन्स) के कारण होता है।",
+    "symptoms": [
+      "पत्तियों के किनारों और सिरे पर पानी से भीगे हुए भूरे-काले धब्बे बनते हैं।",
+      "नम और ठंडे मौसम में धब्बों के नीचे सफेद फफूंद दिखाई देती है।",
+      "धीरे-धीरे ये धब्बे पूरी पत्ती को घेर लेते हैं और पौधा झुलस जाता है।",
+      "तना और आलू भी संक्रमित हो सकते हैं, जिससे आलू पर भूरे या लाल धब्बे पड़ते हैं।"
+    ],
+    "organic_treatment": [
+      "नीम का तेल (5 मिली प्रति लीटर पानी) का घोल बनाकर छिड़काव करें।",
+      "गोमूत्र और हींग का मिश्रण (10 लीटर पानी में 500 मिली गोमूत्र और 10 ग्राम हींग घोलकर) का छिड़काव करें।",
+      "ट्राइकोडर्मा जैसे जैविक फफूंदनाशक का उपयोग करें।"
+    ],
+    "chemical_treatment": [
+      "मैन्कोज़ेब (Mancozeb) 75% WP, 2.5 ग्राम प्रति लीटर पानी की दर से छिड़काव करें।",
+      "मेटालैक्सिल + मैन्कोज़ेब (Metalaxyl + Mancozeb) का मिश्रण, 2.5 ग्राम प्रति लीटर पानी की दर से छिड़काव करें।",
+      "क्लोरोथालोनिल (Chlorothalonil) 75% WP, 2 ग्राम प्रति लीटर पानी की दर से छिड़काव करें।"
+    ],
+    "prevention": [
+      "पिछेती झुलसा रोग प्रतिरोधी किस्मों का चुनाव करें।",
+      "स्वस्थ और प्रमाणित बीज का उपयोग करें।",
+      "खेत में पानी की निकासी का उचित प्रबंध करें और पौधों के बीच सही दूरी रखें।",
+      "संक्रमित पौधों और पत्तों को खेत से निकालकर नष्ट कर दें।"
+    ],
+    "extra_tip": "रोग के लक्षण दिखते ही तुरंत उपचार करें, खासकर बादल वाले और नमी भरे मौसम में खेत का नियमित निरीक्षण करें।",
+    "warning": "छिड़काव करते समय दस्ताने और मास्क अवश्य पहनें। तेज धूप में छिड़काव न करें। यदि रोग का संक्रमण बहुत ज्यादा हो तो अपने नजदीकी कृषि विज्ञान केंद्र से सलाह अवश्य लें।"
+  },
+  "Potato___Late_blight_pa": {
+    "crop": "ਆਲੂ",
+    "disease": "ਪਿਛੇਤਾ ਝੁਲਸ ਰੋਗ",
+    "cause": "ਇਹ ਰੋਗ ਇੱਕ ਕਿਸਮ ਦੀ ਉੱਲੀ (ਫੰਗਸ) ਕਾਰਨ ਹੁੰਦਾ ਹੈ, ਜਿਸਨੂੰ 'ਫਾਈਟੋਫਥੋਰਾ ਇਨਫੈਸਟੈਂਸ' ਕਹਿੰਦੇ ਹਨ।",
+    "symptoms": [
+      "ਪੱਤਿਆਂ 'ਤੇ ਪਾਣੀ ਨਾਲ ਭਿੱਜੇ ਧੱਬੇ ਪੈ ਜਾਂਦੇ ਹਨ, ਜੋ ਬਾਅਦ ਵਿੱਚ ਭੂਰੇ ਜਾਂ ਕਾਲੇ ਹੋ ਜਾਂਦੇ ਹਨ।",
+      "ਪੱਤਿਆਂ ਦੇ ਹੇਠਲੇ ਪਾਸੇ ਚਿੱਟੀ ਉੱਲੀ ਦੀ ਪਰਤ ਨਜ਼ਰ ਆ ਸਕਦੀ ਹੈ।",
+      "ਤਣੇ ਅਤੇ ਡੰਡੀਆਂ 'ਤੇ ਵੀ ਭੂਰੇ-ਕਾਲੇ ਰੰਗ ਦੇ ਧੱਬੇ ਦਿਖਾਈ ਦਿੰਦੇ ਹਨ।",
+      "ਰੋਗ ਵਧਣ 'ਤੇ ਆਲੂ ਵੀ ਗਲਣੇ ਸ਼ੁਰੂ ਹੋ ਜਾਂਦੇ ਹਨ।"
+    ],
+    "organic_treatment": [
+      "ਨੀਮ ਦਾ ਤੇਲ 5 ਮਿ.ਲੀ. ਪ੍ਰਤੀ ਲੀਟਰ ਪਾਣੀ ਵਿੱਚ ਘੋਲ ਕੇ ਛਿੜਕਾਅ ਕਰੋ।",
+      "ਬੋਰਡੋ ਮਿਸ਼ਰਣ (Bordeaux mixture) ਦਾ ਛਿੜਕਾਅ ਕਰੋ।",
+      "ਰੋਗ ਨਾਲ ਪ੍ਰਭਾਵਿਤ ਪੌਦਿਆਂ ਨੂੰ ਤੁਰੰਤ ਪੁੱਟ ਕੇ ਖੇਤ ਤੋਂ ਬਾਹਰ ਕੱਢ ਕੇ ਨਸ਼ਟ ਕਰ ਦਿਓ।"
+    ],
+    "chemical_treatment": [
+      "ਮੈਨਕੋਜ਼ੈਬ (Mancozeb) 75% ਡਬਲਯੂ.ਪੀ. (WP) 600-800 ਗ੍ਰਾਮ ਪ੍ਰਤੀ 200 ਲੀਟਰ ਪਾਣੀ ਵਿੱਚ ਘੋਲ ਕੇ ਛਿੜਕਾਅ ਕਰੋ।",
+      "ਜਾਂ ਪ੍ਰੋਪੀਨੇਬ (Propineb) 70% ਡਬਲਯੂ.ਪੀ. (WP) 600-800 ਗ੍ਰਾਮ ਪ੍ਰਤੀ 200 ਲੀਟਰ ਪਾਣੀ ਵਿੱਚ ਘੋਲ ਕੇ ਛਿੜਕਾਅ ਕਰੋ।",
+      "ਜਾਂ ਸਾਈਮੋਕਸਾਨਿਲ + ਮੈਨਕੋਜ਼ੈਬ (Cymoxanil + Mancozeb) ਵਾਲੀ ਦਵਾਈ ਦਾ ਛਿੜਕਾਅ ਕਰੋ।"
+    ],
+    "prevention": [
+      "ਰੋਗ ਰਹਿਤ ਅਤੇ ਪ੍ਰਮਾਣਿਤ ਬੀਜਾਂ ਦੀ ਹੀ ਵਰਤੋਂ ਕਰੋ।",
+      "ਆਲੂਆਂ ਦੀ ਬਿਜਾਈ ਸਹੀ ਫਾਸਲੇ 'ਤੇ ਕਰੋ ਤਾਂ ਜੋ ਹਵਾ ਦਾ ਚੰਗਾ ਸੰਚਾਰ ਹੋ ਸਕੇ।",
+      "ਖੇਤ ਵਿੱਚ ਫਸਲ ਚੱਕਰ ਅਪਣਾਓ (ਇੱਕੋ ਜਗ੍ਹਾ 'ਤੇ ਵਾਰ-ਵਾਰ ਆਲੂ ਨਾ ਬੀਜੋ)।",
+      "ਪੁਰਾਣੇ ਆਲੂਆਂ ਦੇ ਢੇਰ ਅਤੇ ਪੌਦਿਆਂ ਦੇ ਬਚੇ ਹੋਏ ਹਿੱਸੇ ਖੇਤ ਤੋਂ ਬਾਹਰ ਕੱਢ ਕੇ ਨਸ਼ਟ ਕਰ ਦਿਓ।"
+    ],
+    "extra_tip": "ਠੰਡੇ, ਬੱਦਲਵਾਈ ਵਾਲੇ ਅਤੇ ਨਮੀ ਭਰੇ ਮੌਸਮ ਵਿੱਚ ਇਸ ਰੋਗ ਦਾ ਖਤਰਾ ਵੱਧ ਜਾਂਦਾ ਹੈ, ਇਸ ਲਈ ਅਜਿਹੇ ਸਮੇਂ ਖਾਸ ਧਿਆਨ ਰੱਖੋ ਅਤੇ ਨਿਯਮਿਤ ਤੌਰ 'ਤੇ ਖੇਤ ਦਾ ਨਿਰੀਖਣ ਕਰੋ।",
+    "warning": "ਦਵਾਈਆਂ ਦਾ ਛਿੜਕਾਅ ਕਰਦੇ ਸਮੇਂ ਹਮੇਸ਼ਾ ਦਸਤਾਨੇ ਅਤੇ ਮਾਸਕ ਜ਼ਰੂਰ ਪਾਓ। ਤੇਜ਼ ਧੁੱਪ ਵਿੱਚ ਛਿੜਕਾਅ ਕਰਨ ਤੋਂ ਪਰਹੇਜ਼ ਕਰੋ। ਜੇਕਰ ਬਿਮਾਰੀ ਜ਼ਿਆਦਾ ਫੈਲ ਗਈ ਹੋਵੇ ਤਾਂ ਤੁਰੰਤ ਨਜ਼ਦੀਕੀ ਕ੍ਰਿਸ਼ੀ ਵਿਗਿਆਨ ਕੇਂਦਰ (Krishi Vigyan Kendra) ਨਾਲ ਸੰਪਰਕ ਕਰੋ।"
+  },
+  "Potato___Late_blight_en": {
+    "crop": "Potato",
+    "disease": "Late Blight",
+    "cause": "A fungus-like organism called Phytophthora infestans thrives in cool, wet weather.",
+    "symptoms": [
+      "Dark, watery spots appear on leaves, often starting at the tips or edges, which quickly enlarge.",
+      "A white, fuzzy growth can be seen on the underside of affected leaves, especially in humid conditions.",
+      "Stems can develop dark lesions, and tubers may show reddish-brown, firm rot that spreads inwards."
+    ],
+    "organic_treatment": [
+      "Immediately remove and destroy all infected plant parts and severely diseased plants to prevent spread.",
+      "Spray a homemade garlic or baking soda solution (1 teaspoon baking soda in 1 liter water with a few drops of soap) for mild infections.",
+      "Use organic copper-based fungicides like Bordeaux mixture. Mix 100 grams copper sulfate and 100 grams hydrated lime in 10 liters of water."
+    ],
+    "chemical_treatment": [
+      "Spray Mancozeb at a dose of 2-2.5 grams per liter of water.",
+      "Use Chlorothalonil at a dose of 2-2.5 ml per liter of water.",
+      "Apply fungicides containing Propamocarb at a dose of 2-2.5 ml per liter of water."
+    ],
+    "prevention": [
+      "Plant only certified disease-free potato seeds or tubers.",
+      "Ensure good air circulation by proper spacing between plants and avoid planting in low-lying, poorly drained areas.",
+      "Avoid overhead watering late in the day; water at the base of the plants in the morning to allow leaves to dry quickly."
+    ],
+    "extra_tip": "Regularly check your potato plants, especially during cool, damp, or rainy weather, as Late Blight spreads very quickly under these conditions.",
+    "warning": "Always wear gloves and a mask when mixing and spraying any chemicals. Do not spray chemicals in strong sunlight, as it can harm the plants. If the infection is severe, consult your local Krishi Vigyan Kendra for expert advice."
+  },
+  "prediction_Tomato - Tomato mosaic virus_hi": "टमाटर - टमाटर मोज़ेक वायरस",
+  "Tomato___Tomato_mosaic_virus_solution_hi": {
+    "crop": "टमाटर",
+    "disease": "टमाटर मोज़ेक वायरस",
+    "cause": "यह एक तरह का वायरस है जो पौधों को बीमार करता है। यह आमतौर पर बीमार पौधों, गंदे औजारों, हमारे हाथों और कुछ छोटे कीड़ों (जैसे चेंपा/एफिड) से फैलता है।",
+    "symptoms": [
+      "पत्तियों पर हल्के और गहरे हरे रंग के धब्बे दिखने लगते हैं, जैसे कोई डिज़ाइन (मोज़ेक पैटर्न) बना हो।",
+      "पत्तियां मुड़ जाती हैं, सिकुड़ जाती हैं और छोटी रह जाती हैं।",
+      "पौधे की बढ़ोतरी रुक जाती है और वह बौना रह जाता है।",
+      "फल छोटे और कम लगते हैं, उनका आकार भी टेढ़ा-मेढ़ा हो सकता है।"
+    ],
+    "organic_treatment": [
+      "जो पौधे इस बीमारी से लग गए हैं, उन्हें तुरंत खेत से उखाड़कर जला दें या मिट्टी में बहुत गहरा दबा दें ताकि बीमारी दूसरों में न फैले।",
+      "नीम का तेल (5 मिलीलीटर एक लीटर पानी में मिलाकर) छिड़कें। यह उन छोटे कीड़ों को रोकेगा जो वायरस फैलाते हैं।",
+      "खेती के औजारों को इस्तेमाल करने से पहले और बाद में अच्छे से साफ करें। आप उन्हें ब्लीच के घोल से धो सकते हैं।"
+    ],
+    "chemical_treatment": [
+      "वायरस का कोई सीधा दवाई से इलाज नहीं है। रासायनिक दवाइयां केवल उन कीड़ों को रोकने के लिए हैं जो इस वायरस को फैलाते हैं।",
+      "कीड़ों (जैसे चेंपा/एफिड) को रोकने के लिए इमिडाक्लोप्रिड (Imidacloprid) 17.8% एसएल (0.5 मिलीलीटर एक लीटर पानी में) का छिड़काव करें।",
+      "या थियामेथोक्साम (Thiamethoxam) 25% डब्ल्यूजी (0.2 ग्राम एक लीटर पानी में) का छिड़काव करें।"
+    ],
+    "prevention": [
+      "हमेशा स्वस्थ और बीमारी-मुक्त पौधे ही लगाएं।",
+      "खेत में घास-फूस या खरपतवार न बढ़ने दें, क्योंकि वे भी वायरस फैलाने वाले कीड़ों का घर हो सकते हैं।",
+      "पौधों को छूने या उनके साथ काम करने से पहले और बाद में अपने हाथ अच्छे से धोएं।",
+      "अगर संभव हो तो ऐसी किस्में लगाएं जो इस वायरस के प्रति प्रतिरोधी हों (यानी जिन पर यह बीमारी जल्दी न लगे)।",
+      "खेत की साफ-सफाई रखें और बीमार पौधों के टुकड़ों को हटा दें।"
+    ],
+    "extra_tip": "एक बार पौधे में यह वायरस लग जाए, तो उसे ठीक करना बहुत मुश्किल है। इसलिए, बीमारी लगने से पहले रोकथाम करना ही सबसे अच्छा तरीका है। हमेशा अच्छे और स्वस्थ बीज ही इस्तेमाल करें।",
+    "warning": "दवा का छिड़काव करते समय हमेशा अपने हाथों में दस्ताने और मुंह पर मास्क जरूर पहनें। तेज धूप में या जब तेज हवा चल रही हो, तब छिड़काव न करें। सुबह या शाम का समय सबसे अच्छा होता है। यदि बीमारी बहुत ज्यादा फैल जाए और काबू में न आए, तो तुरंत अपने नजदीकी कृषि विज्ञान केंद्र (KVK) या किसी कृषि विशेषज्ञ से सलाह लें।"
+  },
+  "Tomato___Tomato_mosaic_virus_solution_en": {
+    "crop": "Tomato",
+    "disease": "Tomato mosaic virus",
+    "cause": "A tiny germ (virus) that gets inside the plant. It mainly spreads when hands, tools, or clothes touch a sick plant and then a healthy one. It can also spread through seeds.",
+    "symptoms": [
+      "Leaves get patches of light green and dark green, looking like a 'mosaic' pattern.",
+      "Leaves might become crinkly, smaller, or twisted.",
+      "Plants do not grow well and might look stunted.",
+      "Fruits can be smaller, misshapen, or ripen unevenly, sometimes with yellow or brown spots."
+    ],
+    "organic_treatment": [
+      "Carefully pull out and destroy any plant that shows signs of this disease immediately. Burn them or bury them deep away from your garden.",
+      "Always wash your hands well with soap and water after touching sick plants or before touching healthy ones.",
+      "Clean all your garden tools (like spades, pruners) thoroughly with soap and water or a bleach solution (1 part bleach to 9 parts water) after using them on any plant, especially sick ones.",
+      "Keep your garden free of weeds, as they can sometimes hide the virus."
+    ],
+    "chemical_treatment": [
+      "There is no special chemical spray or medicine that can cure plants once they have this virus.",
+      "The best way to deal with this virus is through good hygiene and strong prevention methods.",
+      "While not directly for this virus, using appropriate insecticides to control sap-sucking insects like aphids can help prevent other types of viruses they might spread."
+    ],
+    "prevention": [
+      "Start with healthy, certified seeds or young plants from a trusted source, preferably varieties known to be resistant to this virus.",
+      "Always wash your hands thoroughly with soap before working with your tomato plants, especially if you have handled other plants or tobacco.",
+      "Clean your garden tools often, especially if you've used them on other plants, and remove any diseased plants quickly to stop spread.",
+      "Do not use tobacco products (cigarettes, bidis) near your tomato plants, as tobacco can carry a similar virus."
+    ],
+    "extra_tip": "Plant different types of crops in your field each season (crop rotation). This helps keep the soil healthy and reduces disease build-up. Always keep your hands and tools very clean!",
+    "warning": "When handling diseased plants or any garden chemicals, always wear gloves and a mask to protect yourself. Do not spray any chemicals during strong sunlight as it can harm your plants. If the infection is severe, consult your local Krishi Vigyan Kendra (Agriculture Science Center) for expert advice."
+  },
+  "prediction_Cherry (including sour) - healthy_pa": "ਚੈਰੀ (ਖੱਟੀਆਂ ਸਮੇਤ) - ਤੰਦਰੁਸਤ",
+  "Cherry_(including_sour)___healthy_solution_pa": {
+    "crop": "ਚੈਰੀ (ਖੱਟੀ ਸਮੇਤ)",
+    "disease": "ਸਿਹਤਮੰਦ ਪੌਦਾ (ਕੋਈ ਬਿਮਾਰੀ ਨਹੀਂ)",
+    "cause": "ਤੁਹਾਡਾ ਚੈਰੀ ਦਾ ਪੌਦਾ ਬਿਲਕੁਲ ਸਿਹਤਮੰਦ ਹੈ। ਇਸ ਦਾ ਕਾਰਨ ਚੰਗੀ ਦੇਖਭਾਲ, ਸਹੀ ਮਿੱਟੀ ਅਤੇ ਪਾਣੀ ਦਾ ਪ੍ਰਬੰਧ ਹੋ ਸਕਦਾ ਹੈ।",
+    "symptoms": [
+      "ਪੌਦੇ ਦੇ ਪੱਤੇ ਚਮਕਦਾਰ ਹਰੇ ਅਤੇ ਤਾਜ਼ੇ ਹਨ।",
+      "ਡੰਡੀਆਂ ਮਜ਼ਬੂਤ ਅਤੇ ਤੰਦਰੁਸਤ ਹਨ।",
+      "ਪੌਦੇ ਦਾ ਵਾਧਾ ਸਹੀ ਹੋ ਰਿਹਾ ਹੈ।",
+      "ਫੁੱਲ ਅਤੇ ਫਲ ਸਹੀ ਢੰਗ ਨਾਲ ਬਣ ਰਹੇ ਹਨ।"
+    ],
+    "organic_treatment": [
+      "ਮਿੱਟੀ ਦੀ ਉਪਜਾਊ ਸ਼ਕਤੀ ਬਣਾਈ ਰੱਖਣ ਲਈ ਖਾਦ ਜਾਂ ਜੈਵਿਕ ਖਾਦ (ਕੰਪੋਸਟ) ਦੀ ਵਰਤੋਂ ਕਰੋ।",
+      "ਪੌਦੇ ਨੂੰ ਨਿਯਮਤ ਅਤੇ ਸਹੀ ਮਾਤਰਾ ਵਿੱਚ ਪਾਣੀ ਦਿਓ, ਖਾਸ ਕਰਕੇ ਫੁੱਲ ਆਉਣ ਅਤੇ ਫਲ ਬਣਨ ਵੇਲੇ।",
+      "ਮਿੱਟੀ ਦੀ ਨਮੀ ਬਣਾਈ ਰੱਖਣ ਲਈ ਅਤੇ ਨਦੀਨਾਂ ਨੂੰ ਰੋਕਣ ਲਈ ਮਲਚਿੰਗ (ਪੱਤਿਆਂ ਜਾਂ ਪਰਾਲੀ ਦੀ ਤਹਿ) ਕਰੋ।"
+    ],
+    "chemical_treatment": [
+      "ਇਸ ਸਮੇਂ ਕਿਸੇ ਵੀ ਰਸਾਇਣਕ ਇਲਾਜ ਦੀ ਲੋੜ ਨਹੀਂ ਹੈ ਕਿਉਂਕਿ ਪੌਦਾ ਸਿਹਤਮੰਦ ਹੈ।"
+    ],
+    "prevention": [
+      "ਪੌਦੇ ਦੀ ਰੋਜ਼ਾਨਾ ਜਾਂਚ ਕਰਦੇ ਰਹੋ ਤਾਂ ਜੋ ਕਿਸੇ ਵੀ ਸਮੱਸਿਆ ਨੂੰ ਸਮੇਂ ਸਿਰ ਪਛਾਣਿਆ ਜਾ ਸਕੇ।",
+      "ਪੌਦਿਆਂ ਨੂੰ ਸਹੀ ਦੂਰੀ 'ਤੇ ਲਗਾਓ ਤਾਂ ਜੋ ਹਵਾ ਅਤੇ ਰੌਸ਼ਨੀ ਸਹੀ ਢੰਗ ਨਾਲ ਮਿਲ ਸਕੇ।",
+      "ਮਿੱਟੀ ਦੀ ਸਿਹਤ ਲਈ ਲੋੜ ਅਨੁਸਾਰ ਪੌਸ਼ਟਿਕ ਤੱਤ ਦਿਓ।",
+      "ਵਾਧੂ ਅਤੇ ਸੁੱਕੀਆਂ ਟਾਹਣੀਆਂ ਦੀ ਸਮੇਂ ਸਿਰ ਕਾਂਟ-ਛਾਂਟ ਕਰੋ।"
+    ],
+    "extra_tip": "ਚੈਰੀ ਦੇ ਪੌਦੇ ਨੂੰ ਸਹੀ ਕਾਂਟ-ਛਾਂਟ ਨਾਲ ਆਕਾਰ ਦਿਓ ਤਾਂ ਜੋ ਫਲਾਂ ਦੀ ਪੈਦਾਵਾਰ ਵੱਧ ਸਕੇ ਅਤੇ ਹਵਾ ਦਾ ਸੰਚਾਰ ਵਧੀਆ ਰਹੇ। ਮਿੱਟੀ ਦੀ ਜਾਂਚ ਕਰਵਾਓ ਤਾਂ ਜੋ ਪੌਸ਼ਟਿਕ ਤੱਤਾਂ ਦੀ ਕਮੀ ਜਾਂ ਵਾਧੇ ਬਾਰੇ ਪਤਾ ਲੱਗ ਸਕੇ।",
+    "warning": "ਕਿਸੇ ਵੀ ਸਪਰੇਅ ਦੀ ਵਰਤੋਂ ਕਰਦੇ ਸਮੇਂ ਦਸਤਾਨੇ ਅਤੇ ਮਾਸਕ ਜ਼ਰੂਰ ਪਾਓ। ਤੇਜ਼ ਧੁੱਪ ਵਿੱਚ ਸਪਰੇਅ ਕਰਨ ਤੋਂ ਬਚੋ। ਜੇਕਰ ਭਵਿੱਖ ਵਿੱਚ ਕੋਈ ਗੰਭੀਰ ਬਿਮਾਰੀ ਜਾਂ ਸਮੱਸਿਆ ਆਉਂਦੀ ਹੈ, ਤਾਂ ਨੇੜਲੇ ਕ੍ਰਿਸ਼ੀ ਵਿਗਿਆਨ ਕੇਂਦਰ ਨਾਲ ਸੰਪਰਕ ਕਰੋ।"
+  },
+  "Cherry_(including_sour)___healthy_solution_en": {
+    "crop": "Cherry (including sour)",
+    "disease": "Healthy",
+    "cause": "The plant is currently healthy and shows no signs of any disease.",
+    "symptoms": [
+      "Leaves are green and full of life.",
+      "Branches look strong and are growing well.",
+      "Fruits (if any) are developing normally and look good."
+    ],
+    "organic_treatment": [
+      "N/A - No disease to treat.",
+      "Continue good farming practices to keep your tree healthy.",
+      "Regularly add good compost or cow dung manure around the tree to enrich the soil."
+    ],
+    "chemical_treatment": [
+      "N/A - No disease to treat.",
+      "Chemical treatments are not needed for a healthy tree.",
+      "Focus on natural ways to keep your tree strong."
+    ],
+    "prevention": [
+      "Regularly check your tree for any small changes or signs of trouble.",
+      "Prune your tree yearly to remove dead branches and allow good airflow.",
+      "Keep the area around the base of the tree clean and free of weeds.",
+      "Water your tree well, especially during dry times, but avoid waterlogging."
+    ],
+    "extra_tip": "A healthy tree is a happy tree! Continue to observe your cherry tree often to catch any potential problems early.",
+    "warning": "Always wear gloves and a mask if you ever need to apply any sprays. Do not spray in strong sunlight. If you ever find a severe problem, consult your local Krishi Vigyan Kendra."
+  },
+  "prediction_Apple - Black rot_pa": "ਸੇਬ - ਕਾਲੀ ਸੜਨ",
+  "prediction_Apple - Apple scab_pa": "ਸੇਬ - ਸੇਬ ਦੀ ਖੁਰਕ",
+  "Apple___Apple_scab_solution_pa": {
+    "crop": "ਸੇਬ",
+    "disease": "ਸੇਬ ਦਾ ਖੁਰਕਣ ਰੋਗ (Apple Scab)",
+    "cause": "ਇਹ ਇੱਕ ਉੱਲੀ (ਫੰਗਸ) ਕਰਕੇ ਲੱਗਣ ਵਾਲੀ ਬਿਮਾਰੀ ਹੈ।",
+    "symptoms": [
+      "ਪੱਤਿਆਂ 'ਤੇ ਗੂੜ੍ਹੇ ਹਰੇ ਜਾਂ ਕਾਲੇ ਰੰਗ ਦੇ ਗੋਲ ਧੱਬੇ ਪੈ ਜਾਂਦੇ ਹਨ।",
+      "ਫਲਾਂ 'ਤੇ ਵੀ ਕਾਲੇ, ਉਭਰੇ ਹੋਏ ਅਤੇ ਖੁਰਕਣ ਵਰਗੇ ਧੱਬੇ ਪੈਂਦੇ ਹਨ।",
+      "ਪ੍ਰਭਾਵਿਤ ਫਲ ਬੇਡੌਲੇ ਹੋ ਜਾਂਦੇ ਹਨ ਅਤੇ ਸਮੇਂ ਤੋਂ ਪਹਿਲਾਂ ਡਿੱਗ ਸਕਦੇ ਹਨ।",
+      "ਕਦੇ-ਕਦੇ ਟਾਹਣੀਆਂ 'ਤੇ ਵੀ ਛੋਟੇ, ਉਭਰੇ ਹੋਏ ਧੱਬੇ ਨਜ਼ਰ ਆਉਂਦੇ ਹਨ।"
+    ],
+    "organic_treatment": [
+      "ਪ੍ਰਭਾਵਿਤ ਪੱਤੇ, ਟਾਹਣੀਆਂ ਅਤੇ ਫਲ ਤੋੜ ਕੇ ਬਾਗ਼ ਤੋਂ ਬਾਹਰ ਕੱਢ ਕੇ ਨਸ਼ਟ ਕਰ ਦਿਓ।",
+      "ਨੀਮ ਦੇ ਤੇਲ ਦਾ ਸਪਰੇਅ ਕਰੋ (5 ਮਿ.ਲੀ. ਪ੍ਰਤੀ ਲੀਟਰ ਪਾਣੀ)।",
+      "ਬਿਮਾਰੀ ਦੇ ਸ਼ੁਰੂਆਤੀ ਪੜਾਅ 'ਤੇ ਬੋਰਡੋ ਮਿਸ਼ਰਣ ਦਾ ਸਪਰੇਅ ਕਰ ਸਕਦੇ ਹੋ।"
+    ],
+    "chemical_treatment": [
+      "ਮੈਂਕੋਜ਼ੇਬ (Mancozeb) (25 ਗ੍ਰਾਮ ਪ੍ਰਤੀ 10 ਲੀਟਰ ਪਾਣੀ) ਦਾ ਸਪਰੇਅ ਕਰੋ।",
+      "ਕੈਪਟਾਨ (Captan) (20 ਗ੍ਰਾਮ ਪ੍ਰਤੀ 10 ਲੀਟਰ ਪਾਣੀ) ਦਾ ਸਪਰੇਅ ਕਰੋ।",
+      "ਬਿਮਾਰੀ ਜ਼ਿਆਦਾ ਹੋਣ 'ਤੇ ਡਾਈਫੇਨੋਕੋਨਾਜ਼ੋਲ (Difenoconazole) ਜਾਂ ਮਾਈਕਲੋਬੂਟਾਨਿਲ (Myclobutanil) ਵਰਗੀਆਂ ਉੱਲੀਨਾਸ਼ਕਾਂ ਦੀ ਵਰਤੋਂ ਕਰੋ।"
+    ],
+    "prevention": [
+      "ਬਾਗ਼ ਨੂੰ ਸਾਫ਼-ਸੁਥਰਾ ਰੱਖੋ ਅਤੇ ਡਿੱਗੇ ਹੋਏ ਪੱਤਿਆਂ ਤੇ ਫਲਾਂ ਨੂੰ ਸਮੇਂ ਸਿਰ ਹਟਾਓ।",
+      "ਸੁੱਕੀਆਂ ਅਤੇ ਪ੍ਰਭਾਵਿਤ ਟਾਹਣੀਆਂ ਦੀ ਛੰਗਾਈ ਕਰੋ ਤਾਂ ਜੋ ਹਵਾ ਤੇ ਰੌਸ਼ਨੀ ਸਹੀ ਤਰ੍ਹਾਂ ਪਹੁੰਚ ਸਕੇ।",
+      "ਰੋਗ ਰੋਕੂ ਕਿਸਮਾਂ ਦੇ ਸੇਬ ਦੇ ਬੂਟੇ ਲਗਾਓ।",
+      "ਬੂਟਿਆਂ ਵਿਚਕਾਰ ਸਹੀ ਫਾਸਲਾ ਰੱਖੋ ਤਾਂ ਜੋ ਹਵਾ ਦਾ ਗੇੜ ਵਧੀਆ ਰਹੇ।"
+    ],
+    "extra_tip": "ਸਮੇਂ ਸਿਰ ਸਪਰੇਅ ਕਰਨਾ ਅਤੇ ਬਾਗ਼ ਦੀ ਸਾਫ਼-ਸਫਾਈ ਰੱਖਣਾ ਬਿਮਾਰੀ ਨੂੰ ਰੋਕਣ ਵਿੱਚ ਬਹੁਤ ਮਦਦ ਕਰਦਾ ਹੈ।",
+    "warning": "ਸਪਰੇਅ ਕਰਦੇ ਸਮੇਂ ਦਸਤਾਨੇ ਅਤੇ ਮਾਸਕ ਜ਼ਰੂਰ ਪਾਓ। ਤੇਜ਼ ਧੁੱਪ ਵਿੱਚ ਸਪਰੇਅ ਨਾ ਕਰੋ। ਜੇ ਬਿਮਾਰੀ ਜ਼ਿਆਦਾ ਫੈਲ ਗਈ ਹੋਵੇ ਤਾਂ ਨਜ਼ਦੀਕੀ ਕ੍ਰਿਸ਼ੀ ਵਿਗਿਆਨ ਕੇਂਦਰ (KVK) ਨਾਲ ਸਲਾਹ ਕਰੋ।"
+  },
+  "prediction_Apple - Apple scab_mr": "सफरचंद - सफरचंद खूपडी",
+  "Apple___Apple_scab_solution_mr": {
+    "crop": "सफरचंद",
+    "disease": "सफरचंद खैरा (स्कॅब)",
+    "cause": "हा रोग 'वेंटुरिया इनइक्वलिस' (Venturia inaequalis) नावाच्या बुरशीमुळे होतो. थंड आणि दमट हवामान या रोगासाठी अनुकूल असते.",
+    "symptoms": [
+      "पानांवर सुरुवातीला हिरवट-तपकिरी आणि नंतर गडद-काळसर रंगाचे गोल ठिपके दिसतात. कालांतराने हे डाग मोठे होतात.",
+      "फळांवरही काळसर, खरखरीत आणि गोल डाग पडतात. यामुळे फळे वेडीवाकडी होतात आणि त्यांची वाढ खुंटते.",
+      "कधीकधी झाडाची पाने आणि फळे वेळेपूर्वीच गळून पडतात."
+    ],
+    "organic_treatment": [
+      "कडुलिंबाच्या तेलाची (निम तेल) ५ ते १० मिली प्रति लिटर पाण्यात मिसळून फवारणी करा. ही फवारणी लवकर रोग नियंत्रणात आणण्यास मदत करते.",
+      "१% बोर्डो मिश्रणाची फवारणी करा. (१० ग्रॅम मोरचूद आणि १० ग्रॅम चुना १ लिटर पाण्यात मिसळून तयार करा). रोगाचा प्रतिबंध करण्यासाठी ही फवारणी प्रभावी आहे.",
+      "बागेतील रोगग्रस्त पाने, फळे आणि फांद्या नियमितपणे काढून नष्ट करा. यामुळे बुरशीचा प्रसार थांबतो."
+    ],
+    "chemical_treatment": [
+      "रोग दिसू लागल्यास किंवा पावसाळ्यापूर्वी, मॅन्कोझेब (Mancozeb) किंवा कॅप्टन (Captan) यांसारख्या बुरशीनाशकाची २ ते २.५ ग्रॅम प्रति लिटर पाण्यात मिसळून फवारणी करा.",
+      "नवीन पालवी फुटताना आणि फळे लागण्यापूर्वी बुरशीनाशकाची फवारणी करणे महत्त्वाचे आहे. यामुळे रोगाचा प्रतिबंध होतो.",
+      "आवश्यकतेनुसार दर १०-१५ दिवसांनी फवारणी पुन्हा करा. पण दोन वेगवेगळ्या बुरशीनाशकांचा वापर आलटून पालटून करा."
+    ],
+    "prevention": [
+      "बागेत योग्य छाटणी करून झाडांना पुरेसा सूर्यप्रकाश आणि हवा खेळती राहील याची काळजी घ्या. यामुळे दमटपणा कमी होतो.",
+      "जमिनीवर पडलेली रोगग्रस्त पाने आणि फळे नियमितपणे गोळा करून जाळून टाका किंवा खोल पुरून नष्ट करा.",
+      "रोगप्रतिकारक शक्ती असलेल्या सफरचंदाच्या जातींची लागवड करण्यास प्राधान्य द्या. यामुळे रोगाचा धोका कमी होतो."
+    ],
+    "extra_tip": "बागेतील औजारे आणि उपकरणे वापरण्यापूर्वी आणि वापरल्यानंतर स्वच्छ करा. यामुळे रोगाचा प्रसार टाळता येतो.",
+    "warning": "फवारणी करताना हातमोजे आणि मास्क (मुखपट्टी) नक्की वापरा. प्रखर सूर्यप्रकाशात फवारणी करू नका, सकाळी किंवा संध्याकाळी फवारणी करा. रोगाचा प्रादुर्भाव जास्त असल्यास, त्वरित जवळच्या कृषी विज्ञान केंद्राचा सल्ला घ्या."
+  },
+  "Apple___Apple_scab_solution_en": {
+    "crop": "Apple",
+    "disease": "Apple Scab",
+    "cause": "A type of fungus (Venturia inaequalis)",
+    "symptoms": [
+      "Small, olive-green to brown spots appear on new leaves, which can later turn yellow and fall off early.",
+      "Dark, rough, scabby spots form on the fruit. Fruits may become deformed, cracked, and ripen unevenly.",
+      "Spots can also be found on young twigs and flower parts."
+    ],
+    "organic_treatment": [
+      "Remove and burn all fallen leaves and infected fruits from under the trees.",
+      "Spray neem oil mixed with water on the tree. Follow product instructions for mixing.",
+      "Apply sulfur-based fungicides, following the label instructions for proper dosage and timing."
+    ],
+    "chemical_treatment": [
+      "Spray fungicides like Captan or Myclobutanil.",
+      "Follow the specific dosage and timing instructions provided on the product label.",
+      "Repeat applications as needed, typically every 7-14 days during susceptible periods, as per product guidelines."
+    ],
+    "prevention": [
+      "Collect and destroy all fallen leaves, twigs, and infected fruits around your apple trees.",
+      "Prune your apple trees to ensure good air circulation through the branches. This helps leaves dry faster.",
+      "When planting new trees, choose apple varieties that are known to be resistant to scab disease."
+    ],
+    "extra_tip": "Water your apple trees at the base of the plant, avoiding overhead watering, as wet leaves encourage fungus growth. Keep the area around trees clean for better airflow.",
+    "warning": "Always wear gloves and a mask when spraying any treatment. Do not spray when the sun is strong, especially in the middle of the day, as it can harm the plant. If the infection is very bad, consult your local Krishi Vigyan Kendra for expert advice."
+  },
+  "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot_solution_en": {
+    "crop": "Corn (Maize)",
+    "disease": "Cercospora Leaf Spot (Gray Leaf Spot)",
+    "cause": "Fungus",
+    "symptoms": [
+      "Long, narrow spots on leaves, usually gray-green at first.",
+      "Spots turn tan or brown and can grow together, making large dead areas.",
+      "Leaves might look burned or scorched, especially older ones.",
+      "Damage usually starts on lower leaves and moves upwards."
+    ],
+    "organic_treatment": [
+      "Remove and destroy infected corn stalks and leaves after harvest to reduce future disease.",
+      "Improve air flow between plants by planting at the correct distance.",
+      "Spray neem oil solution on the affected plants, following product instructions. Do this in the evening."
+    ],
+    "chemical_treatment": [
+      "Use fungicides like Azoxystrobin or Propiconazole. Read and follow the product label for how much to mix and how to spray.",
+      "Apply fungicides when the first small spots appear on the leaves.",
+      "Repeat spraying as directed on the fungicide label, especially if conditions are wet and warm."
+    ],
+    "prevention": [
+      "Choose corn seeds that are known to be resistant to Gray Leaf Spot.",
+      "Do not plant corn in the same field year after year. Change crops (crop rotation).",
+      "Clean your field well after harvest, removing all old corn plants and leaves."
+    ],
+    "extra_tip": "Keep your field clean and well-drained. Good plant health helps them fight off diseases.",
+    "warning": "Wear gloves and a mask when spraying any treatment. Do not spray in strong sunlight. If infection is severe consult Krishi Vigyan Kendra."
+  },
+  "prediction_Corn (maize) - Cercospora leaf spot Gray leaf spot_hi": "मक्का - सर्कोस्पोरा पर्ण धब्बा, धूसर पर्ण धब्बा",
+  "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot_solution_hi": {
+    "crop": "मक्का",
+    "disease": "सर्कोस्पोरा पर्ण चित्ती और ग्रे लीफ स्पॉट",
+    "cause": "यह बीमारी एक प्रकार की फफूंद (कवक) के कारण होती है।",
+    "symptoms": [
+      "पत्तों पर भूरे या हल्के पीले रंग के छोटे धब्बे दिखाई देते हैं।",
+      "धब्बे समय के साथ लंबे और अंडाकार हो जाते हैं, जिनके किनारे गहरे भूरे या बैंगनी हो सकते हैं।",
+      "धब्बे आपस में मिलकर बड़े होकर पत्ते को सुखा देते हैं, जिससे पत्तों पर जले हुए जैसा निशान दिखता है।",
+      "पौधे की वृद्धि रुक जाती है और दाना नहीं भर पाता, जिससे उपज कम हो जाती है।"
+    ],
+    "organic_treatment": [
+      "500 मिली नीम का तेल 100 लीटर पानी में मिलाकर प्रति एकड़ छिड़काव करें। इसे 7-10 दिनों के अंतराल पर दोहरा सकते हैं।",
+      "ट्राइकोडर्मा विरिडी (Trichoderma viride) फफूंदनाशक का 2-3 किलोग्राम प्रति एकड़ की दर से मिट्टी में प्रयोग करें या बीजोपचार के लिए इस्तेमाल करें।",
+      "गोमूत्र को 10 गुना पानी में घोलकर 10-15 दिनों के अंतराल पर छिड़काव कर सकते हैं, यह रोग प्रतिरोधक क्षमता बढ़ाता है।"
+    ],
+    "chemical_treatment": [
+      "प्रोपीकोनाजोल (Propiconazole) 25% EC नामक फफूंदनाशक का 200-250 मिली प्रति एकड़ 200 लीटर पानी में मिलाकर छिड़काव करें।",
+      "एजोक्सीस्ट्रोबिन (Azoxystrobin) 25% SC या टेबुकोनाजोल (Tebuconazole) 25% EC का 200-250 मिली प्रति एकड़ 200 लीटर पानी में घोलकर छिड़काव करें।",
+      "जरूरत पड़ने पर, पहले छिड़काव के 10-15 दिन बाद दोबारा छिड़काव कर सकते हैं।"
+    ],
+    "prevention": [
+      "रोग प्रतिरोधी मक्का की किस्में बोएं, जो इस बीमारी से लड़ने में सक्षम हों।",
+      "खेत में फसल चक्र अपनाएं, यानी हर साल एक ही फसल न लगाएं। इससे मिट्टी में बीमारी फैलाने वाले तत्व कम हो जाते हैं।",
+      "पिछली फसल के अवशेषों को खेत से हटा दें या गहरे जोत दें, क्योंकि इनमें बीमारी के जीवाणु छिपे हो सकते हैं।",
+      "पौधों के बीच उचित दूरी रखें ताकि हवा का संचार अच्छा हो और पत्तियां जल्दी सूखें।",
+      "खेत की नियमित साफ-सफाई करें और संतुलित मात्रा में खाद डालें।"
+    ],
+    "extra_tip": "खेत की नियमित निगरानी करते रहें और रोग के शुरुआती लक्षण दिखते ही तुरंत उपचार करें ताकि बीमारी को फैलने से रोका जा सके। खेत में पानी जमा न होने दें।",
+    "warning": "रसायन का छिड़काव करते समय हमेशा दस्ताने और मास्क पहनें ताकि आपकी त्वचा और सांस को नुकसान न हो। तेज धूप या तेज हवा में छिड़काव न करें, क्योंकि इससे दवा का असर कम हो सकता है और वह उड़कर आसपास के पौधों पर जा सकती है। यदि संक्रमण बहुत गंभीर हो जाए और ऊपर बताए गए उपाय काम न करें, तो तुरंत अपने नजदीकी कृषि विज्ञान केंद्र या कृषि विशेषज्ञ से संपर्क करें।"
+  },
+  "prediction_Apple - Black rot_hi": "सेब - काला सड़न",
+  "prediction_Corn (maize) - Cercospora leaf spot Gray leaf spot_pa": "ਮੱਕੀ - ਸਰਕੋਸਪੋਰਾ ਪੱਤਿਆਂ ਦੇ ਧੱਬੇ, ਸਲੇਟੀ ਪੱਤਿਆਂ ਦੇ ਧੱਬੇ",
+  "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot_solution_pa": {
+    "crop": "ਮੱਕੀ",
+    "disease": "ਸਰਕੋਸਪੋਰਾ ਪੱਤੇ ਦੇ ਧੱਬੇ / ਸਲੇਟੀ ਪੱਤੇ ਦੇ ਧੱਬੇ",
+    "cause": "ਇਹ ਬਿਮਾਰੀ ਇੱਕ ਉੱਲੀ (ਫੰਗਸ) ਕਾਰਨ ਹੁੰਦੀ ਹੈ, ਜੋ ਨਮੀ ਵਾਲੇ ਅਤੇ ਗਰਮ ਮੌਸਮ ਵਿੱਚ ਜ਼ਿਆਦਾ ਫੈਲਦੀ ਹੈ।",
+    "symptoms": [
+      "ਪੱਤਿਆਂ 'ਤੇ ਛੋਟੇ, ਗੋਲ ਜਾਂ ਅੰਡਾਕਾਰ ਪਾਣੀ ਭਰੇ ਧੱਬੇ ਦਿਖਾਈ ਦਿੰਦੇ ਹਨ।",
+      "ਇਹ ਧੱਬੇ ਬਾਅਦ ਵਿੱਚ ਸਲੇਟੀ ਤੋਂ ਭੂਰੇ ਰੰਗ ਦੇ ਹੋ ਜਾਂਦੇ ਹਨ ਅਤੇ ਅਕਸਰ ਇਨ੍ਹਾਂ ਦੇ ਕਿਨਾਰੇ ਗੂੜ੍ਹੇ ਰੰਗ ਦੇ ਹੁੰਦੇ ਹਨ।",
+      "ਜ਼ਿਆਦਾ ਧੱਬੇ ਆਪਸ ਵਿੱਚ ਮਿਲ ਕੇ ਵੱਡੇ ਖੇਤਰ ਬਣਾ ਲੈਂਦੇ ਹਨ, ਜਿਸ ਨਾਲ ਪੱਤਾ ਸੁੱਕਣਾ ਸ਼ੁਰੂ ਹੋ ਜਾਂਦਾ ਹੈ।",
+      "ਪੱਤੇ ਸਮੇਂ ਤੋਂ ਪਹਿਲਾਂ ਸੁੱਕ ਜਾਂਦੇ ਹਨ, ਜਿਸ ਨਾਲ ਫਸਲ ਦਾ ਝਾੜ ਘੱਟ ਹੋ ਸਕਦਾ ਹੈ।"
+    ],
+    "organic_treatment": [
+      "ਬਿਮਾਰੀ ਵਾਲੇ ਪੱਤਿਆਂ ਨੂੰ ਤੋੜ ਕੇ ਖੇਤ ਤੋਂ ਬਾਹਰ ਕੱਢੋ ਅਤੇ ਸਹੀ ਢੰਗ ਨਾਲ ਨਸ਼ਟ ਕਰ ਦਿਓ।",
+      "ਖੇਤ ਨੂੰ ਸਾਫ਼-ਸੁਥਰਾ ਰੱਖੋ ਅਤੇ ਪਿਛਲੀ ਫ਼ਸਲ ਦੇ ਬਚੇ ਹੋਏ ਅੰਗ (ਰਹਿਦ-ਖੂੰਹਦ) ਨੂੰ ਹਟਾਓ।",
+      "ਨਿੰਮ ਦਾ ਤੇਲ (Neem oil) 3-5 ਮਿ.ਲੀ. ਪ੍ਰਤੀ ਲੀਟਰ ਪਾਣੀ ਦੇ ਹਿਸਾਬ ਨਾਲ ਘੋਲ ਕੇ ਸਪਰੇਅ ਕਰੋ।"
+    ],
+    "chemical_treatment": [
+      "ਮੈਨਕੋਜ਼ੇਬ (Mancozeb) 75% WP ਦੀ 600-800 ਗ੍ਰਾਮ ਮਾਤਰਾ ਪ੍ਰਤੀ ਏਕੜ 200 ਲੀਟਰ ਪਾਣੀ ਵਿੱਚ ਘੋਲ ਕੇ ਸਪਰੇਅ ਕਰੋ।",
+      "ਜਾਂ, ਪ੍ਰੋਪੀਕੋਨਾਜ਼ੋਲ (Propiconazole) 25% EC ਦੀ 200 ਮਿ.ਲੀ. ਮਾਤਰਾ ਪ੍ਰਤੀ ਏਕੜ 200 ਲੀਟਰ ਪਾਣੀ ਵਿੱਚ ਘੋਲ ਕੇ ਸਪਰੇਅ ਕਰੋ।",
+      "ਜੇ ਲੋੜ ਪਵੇ, ਤਾਂ ਪਹਿਲੀ ਸਪਰੇਅ ਤੋਂ 10-15 ਦਿਨਾਂ ਬਾਅਦ ਦੂਜੀ ਸਪਰੇਅ ਕੀਤੀ ਜਾ ਸਕਦੀ ਹੈ।"
+    ],
+    "prevention": [
+      "ਬਿਮਾਰੀ ਰੋਧਕ ਕਿਸਮਾਂ ਦੀ ਚੋਣ ਕਰੋ ਜੋ ਇਸ ਬਿਮਾਰੀ ਪ੍ਰਤੀ ਰੋਧਕ ਹੋਣ।",
+      "ਖੇਤ ਵਿੱਚ ਫਸਲੀ ਚੱਕਰ (Crop rotation) ਅਪਣਾਓ, ਯਾਨੀ ਇੱਕੋ ਖੇਤ ਵਿੱਚ ਹਰ ਸਾਲ ਮੱਕੀ ਨਾ ਬੀਜੋ।",
+      "ਪੌਦਿਆਂ ਵਿੱਚ ਸਹੀ ਦੂਰੀ ਰੱਖੋ ਤਾਂ ਜੋ ਹਵਾ ਦਾ ਵਹਾਅ ਠੀਕ ਰਹੇ ਅਤੇ ਪੱਤੇ ਸੁੱਕੇ ਰਹਿਣ।",
+      "ਖੇਤ ਵਿੱਚੋਂ ਪਿਛਲੀ ਫ਼ਸਲ ਦੇ ਬਚੇ ਹੋਏ ਅੰਗ (ਰਹਿਦ-ਖੂੰਹਦ) ਨੂੰ ਚੰਗੀ ਤਰ੍ਹਾਂ ਸਾਫ਼ ਕਰੋ।"
+    ],
+    "extra_tip": "ਆਪਣੇ ਖੇਤਾਂ ਦੀ ਨਿਯਮਿਤ ਤੌਰ 'ਤੇ ਜਾਂਚ ਕਰਦੇ ਰਹੋ ਤਾਂ ਜੋ ਬਿਮਾਰੀ ਨੂੰ ਸ਼ੁਰੂਆਤੀ ਪੜਾਅ 'ਤੇ ਹੀ ਪਛਾਣਿਆ ਜਾ ਸਕੇ ਅਤੇ ਸਮੇਂ ਸਿਰ ਇਲਾਜ ਕੀਤਾ ਜਾ ਸਕੇ।",
+    "warning": "ਸਪਰੇਅ ਕਰਦੇ ਸਮੇਂ ਦਸਤਾਨੇ ਅਤੇ ਮਾਸਕ ਜ਼ਰੂਰ ਪਹਿਨੋ ਤਾਂ ਜੋ ਰਸਾਇਣਾਂ ਦੇ ਸਿੱਧੇ ਸੰਪਰਕ ਤੋਂ ਬਚਿਆ ਜਾ ਸਕੇ। ਤੇਜ਼ ਧੁੱਪ ਵਿੱਚ ਸਪਰੇਅ ਨਾ ਕਰੋ, ਸਵੇਰੇ ਜਾਂ ਸ਼ਾਮ ਨੂੰ ਠੰਡੇ ਸਮੇਂ ਵਿੱਚ ਸਪਰੇਅ ਕਰਨਾ ਬਿਹਤਰ ਹੈ। ਜੇ ਬਿਮਾਰੀ ਜ਼ਿਆਦਾ ਫੈਲ ਜਾਵੇ ਅਤੇ ਕਾਬੂ ਨਾ ਆਵੇ, ਤਾਂ ਆਪਣੇ ਨੇੜਲੇ ਕ੍ਰਿਸ਼ੀ ਵਿਗਿਆਨ ਕੇਂਦਰ (Krishi Vigyan Kendra) ਨਾਲ ਸਲਾਹ ਕਰੋ।"
+  },
+  "Grape___Black_rot_solution_en": {
+    "crop": "Grape",
+    "disease": "Black Rot",
+    "cause": "A type of tiny fungus that spreads easily, especially in warm, wet weather.",
+    "symptoms": [
+      "Small, round, light brown spots appear on leaves, which later turn dark brown or black.",
+      "Grapes get dark spots, then shrivel up, become hard, black, and look like tiny dried raisins (mummies).",
+      "Sometimes, dark spots also appear on young shoots or stems."
+    ],
+    "organic_treatment": [
+      "Carefully remove and burn or bury all infected leaves, grapes, and shoots. Do not let them stay in the field.",
+      "Spray natural solutions like Bordeaux mixture (a mix of copper sulfate and lime) or Neem oil solution on the plants. Follow instructions for mixing.",
+      "Prune extra leaves and branches to allow more air and sunlight to reach the grapes. This helps dry out moisture."
+    ],
+    "chemical_treatment": [
+      "Use fungicides like Myclobutanil (e.g., Nova, Rally) or Propiconazole (e.g., Tilt). Follow the instructions on the packet for how much to mix with water.",
+      "Another option is Mancozeb (e.g., Dithane M-45, Indofil M45). Spray it as per the product label's instructions.",
+      "Start spraying these chemicals when grapes are small and continue as needed, following the spray schedule on the pack."
+    ],
+    "prevention": [
+      "Keep your vineyard clean. Remove all fallen leaves and mummified grapes from the ground.",
+      "Prune your grapevines regularly to ensure good air flow and sunlight, especially around the grape bunches.",
+      "Try to plant grape varieties that are known to be strong against black rot.",
+      "Water the plants early in the morning so the leaves can dry completely before nightfall."
+    ],
+    "extra_tip": "Keeping your vineyard clean and pruning properly are the best ways to keep this disease away and ensure healthy grapes.",
+    "warning": "Always wear gloves and a mask when mixing and spraying any treatment. Never spray when the sun is strong, especially in the afternoon, as it can harm the plants. If the disease is very bad and you can't control it, please visit your nearest Krishi Vigyan Kendra for expert advice."
+  },
+  "prediction_Potato - Late blight_hi": "आलू - पछेती झुलसा",
+  "Potato___Late_blight_solution_hi": {
+    "crop": "आलू",
+    "disease": "आलू का पछेती झुलसा",
+    "cause": "यह एक फफूंद (फंगस) से होने वाला रोग है जो ठंडी और नम जलवायु (गीले और ठंडे मौसम) में तेजी से फैलता है।",
+    "symptoms": [
+      "पत्तियों पर पानी से भीगे हुए, गहरे भूरे या काले रंग के धब्बे दिखते हैं।",
+      "धब्बों के नीचे की तरफ सफेद रुई जैसी फफूंद (फंगस) की परत दिख सकती है।",
+      "रोग बढ़ने पर तने और आलू के कंदों (आलू के अंदर) पर भी ऐसे ही धब्बे आ जाते हैं, जिससे कंद गलने लगते हैं।"
+    ],
+    "organic_treatment": [
+      "नीम का तेल: 5 मिलीलीटर नीम का तेल प्रति लीटर पानी में मिलाकर छिड़काव करें।",
+      "गोमूत्र का घोल: 1 भाग गोमूत्र को 10 भाग पानी में मिलाकर छिड़काव करें।",
+      "ट्राइकोडर्मा: 5-10 ग्राम ट्राइकोडर्मा प्रति लीटर पानी में मिलाकर पौधों पर छिड़काव करें या मिट्टी में डालें।"
+    ],
+    "chemical_treatment": [
+      "मेटालैक्सिल + मैनकोजेब (संयुक्त फफूंदनाशक): 25-30 ग्राम प्रति 15 लीटर पानी में घोलकर छिड़काव करें।",
+      "क्लोरोथालोनिल: 20-25 ग्राम प्रति 15 लीटर पानी में घोलकर छिड़काव करें।",
+      "प्रोपेनेब: 30-40 ग्राम प्रति 15 लीटर पानी में घोलकर छिड़काव करें।"
+    ],
+    "prevention": [
+      "बुवाई के लिए हमेशा स्वस्थ और प्रमाणित बीजों का ही इस्तेमाल करें।",
+      "खेत में आलू के पौधों के बीच सही दूरी रखें ताकि हवा का संचार (हवा का आना-जाना) अच्छा हो।",
+      "खेत की अच्छी तरह से सफाई करें और पुराने संक्रमित पौधों के अवशेष (बचे हुए हिस्से) हटा दें।",
+      "खेत में पानी जमा न होने दें, जल निकासी (पानी निकलने) का उचित प्रबंध रखें।",
+      "रोग प्रतिरोधी (रोग से लड़ने वाली) किस्मों का चुनाव करें।"
+    ],
+    "extra_tip": "रोग के पहले लक्षण दिखते ही तुरंत छिड़काव शुरू कर दें। सुबह या शाम के समय ही दवा का छिड़काव करें।",
+    "warning": "छिड़काव करते समय दस्ताने और मास्क जरूर पहनें। तेज धूप में कभी भी दवा का छिड़काव न करें। यदि रोग बहुत अधिक बढ़ जाए तो अपने नजदीकी कृषि विज्ञान केंद्र से तुरंत सलाह लें।"
+  },
+  "prediction_Tomato - Early blight_hi": "टमाटर - अगैती झुलसा",
+  "Peach___healthy_solution_en": {
+    "crop": "Peach",
+    "disease": "None detected (Plant is healthy)",
+    "cause": "N/A - No disease symptoms observed.",
+    "symptoms": [
+      "N/A - Plant shows healthy growth and no signs of disease.",
+      "Leaves are green and full, fruit development is normal."
+    ],
+    "organic_treatment": [
+      "N/A - No disease to treat."
+    ],
+    "chemical_treatment": [
+      "N/A - No disease to treat."
+    ],
+    "prevention": [
+      "Water your peach tree regularly, especially when the weather is dry.",
+      "Prune out any dead or weak branches in late winter to keep the tree strong.",
+      "Keep the area around the tree clean of fallen leaves and fruit to prevent future problems."
+    ],
+    "extra_tip": "Keep an eye on your peach tree often. Check leaves, branches, and fruits for any small changes so you can spot problems early if they ever appear.",
+    "warning": "If you ever need to use any treatments in the future, always wear safety gloves and a mask. Avoid spraying in strong sunlight. If any severe problems appear, consult your local Krishi Vigyan Kendra for expert advice."
+  },
+  "prediction_Cherry (including sour) - healthy_hi": "चेरी (खट्टी सहित) - स्वस्थ",
+  "Cherry_(including_sour)___healthy_solution_hi": {
+    "crop": "चेरी (खट्टी चेरी सहित)",
+    "disease": "स्वस्थ (कोई बीमारी नहीं)",
+    "cause": "आपका चेरी का पौधा पूरी तरह से स्वस्थ है और इसमें कोई बीमारी नहीं पाई गई है।",
+    "symptoms": [
+      "आपके पौधे में बीमारी के कोई लक्षण नहीं हैं।",
+      "पत्तियां हरी और स्वस्थ हैं।",
+      "टहनियां मजबूत हैं और फल सामान्य दिख रहे हैं।"
+    ],
+    "organic_treatment": [
+      "अपने स्वस्थ पौधे को अच्छी तरह से बढ़ने के लिए नियमित रूप से जैविक खाद (जैसे गोबर की खाद या कम्पोस्ट) दें।",
+      "मिट्टी में नमी बनाए रखने के लिए सही मात्रा में पानी दें, न बहुत कम न बहुत ज्यादा।",
+      "पौधे के आसपास से खरपतवार हटाते रहें ताकि पौधे को पूरा पोषण मिल सके।"
+    ],
+    "chemical_treatment": [
+      "इस समय किसी भी रासायनिक उपचार की कोई आवश्यकता नहीं है, क्योंकि आपका पौधा पूरी तरह से स्वस्थ है।"
+    ],
+    "prevention": [
+      "पौधे के आसपास की जगह को साफ-सुथरा रखें। गिरी हुई पत्तियां और टहनियां हटाते रहें।",
+      "अपने पौधे का नियमित रूप से निरीक्षण करते रहें ताकि भविष्य में किसी भी बीमारी या कीट के लक्षण को तुरंत पहचाना जा सके।",
+      "सही समय पर पौधे की छंटाई (प्रूनिंग) करें ताकि हवा और धूप पौधे के सभी हिस्सों तक अच्छे से पहुंच सके।"
+    ],
+    "extra_tip": "एक स्वस्थ पौधे को बनाए रखने के लिए नियमित देखभाल और सही पोषण बहुत जरूरी है। ऐसा करने से आपको लंबे समय तक अच्छे फल मिलते रहेंगे।",
+    "warning": "किसी भी प्रकार की स्प्रे (भविष्य में आवश्यकता पड़ने पर) करते समय हमेशा दस्ताने और मास्क पहनें। तेज धूप में कभी भी स्प्रे न करें। यदि भविष्य में आपको कोई गंभीर संक्रमण या बीमारी दिखे, तो तुरंत अपने नजदीकी कृषि विज्ञान केंद्र से संपर्क करें।"
+  },
+  "prediction_Corn (maize) - Common rust _hi": "मक्का - सामान्य रस्ट",
+  "Corn_(maize)___Common_rust__solution_hi": {
+    "crop": "मक्का (कॉर्न)",
+    "disease": "सामान्य रस्ट (गेरुआ रोग)",
+    "cause": "यह एक फफूंद (फंगस) से होने वाली बीमारी है जो 'पक्सिनिया सोरघी' (Puccinia sorghi) नामक फफूंद के कारण फैलती है।",
+    "symptoms": [
+      "मक्का के पत्तों पर छोटे, गोल या अंडाकार, नारंगी-भूरे रंग के धब्बे दिखाई देते हैं।",
+      "ये धब्बे छूने पर पाउडर जैसा पदार्थ छोड़ते हैं (जो फफूंद के बीजाणु होते हैं)।",
+      "गंभीर स्थिति में ये धब्बे गहरे भूरे या काले हो जाते हैं और पत्ते सूखने लगते हैं।",
+      "पौधों की बढ़वार रुक जाती है और दानों का आकार छोटा रह जाता है, जिससे उपज कम होती है।"
+    ],
+    "organic_treatment": [
+      "नीम का तेल: 5 मिलीलीटर नीम के तेल को प्रति लीटर पानी में मिलाकर पौधों पर छिड़काव करें। हर 7-10 दिन में दोहराएं।",
+      "खट्टी छाछ का स्प्रे: पुरानी खट्टी छाछ को पानी में 1:10 के अनुपात में (1 भाग छाछ, 10 भाग पानी) मिलाकर छिड़काव करें।",
+      "गोमूत्र का स्प्रे: 1 भाग गोमूत्र को 10 भाग पानी में मिलाकर छिड़काव करें। यह पौधों की रोग प्रतिरोधी क्षमता बढ़ाता है।",
+      "रोगग्रस्त पत्तों को सावधानी से हटाकर खेत से दूर जला दें या गहरे गड्ढे में दबा दें ताकि रोग फैले नहीं।"
+    ],
+    "chemical_treatment": [
+      "मैनकोज़ेब (Mancozeb): 2.5 ग्राम मैनकोज़ेब को प्रति लीटर पानी में घोलकर छिड़काव करें।",
+      "प्रोपिकोनाज़ोल (Propiconazole): 1 मिलीलीटर प्रोपिकोनाज़ोल को प्रति लीटर पानी में घोलकर छिड़काव करें।",
+      "इलाज के लिए सुबह या शाम को जब ओस न हो, तभी छिड़काव करें और दवाई को पूरे खेत में समान रूप से फैलाएं।"
+    ],
+    "prevention": [
+      "रोग प्रतिरोधी मक्का की किस्मों का चुनाव करें।",
+      "खेत में पिछली फसल के अवशेषों को अच्छी तरह साफ कर दें, क्योंकि फफूंद इनमें जीवित रह सकती है।",
+      "पौधों के बीच सही दूरी रखें ताकि हवा का संचार अच्छा हो और पत्तियां सूखी रहें।",
+      "संतुलित खाद का उपयोग करें, नाइट्रोजन खाद का अधिक उपयोग करने से बचें।",
+      "नियमित रूप से खेत का निरीक्षण करें ताकि रोग का पता चलते ही तुरंत उपचार किया जा सके।"
+    ],
+    "extra_tip": "फसल चक्र अपनाएं, यानी एक ही खेत में लगातार मक्का न लगाएं। इससे मिट्टी में रोग पैदा करने वाले जीवों की संख्या कम होती है।",
+    "warning": "दवाई का छिड़काव करते समय सुरक्षा के लिए हमेशा दस्ताने और मास्क पहनें। तेज धूप में या बहुत तेज हवा चलने पर दवाई का छिड़काव न करें। यदि रोग गंभीर हो जाए और बताए गए उपायों से नियंत्रित न हो, तो अपने नजदीकी कृषि विज्ञान केंद्र से तुरंत सलाह लें।"
+  },
+  "prediction_Tomato - Spider mites Two-spotted spider mite_hi": "टमाटर - मकड़ी के घुन टू-स्पॉटेड स्पाइडर माइट",
+  "Tomato___Spider_mites Two-spotted_spider_mite_solution_hi": {
+    "crop": "टमाटर",
+    "disease": "टमाटर के मकड़ी कीट (दो-धब्बे वाले स्पाइडर माइट्स)",
+    "cause": "सूखा और गर्म मौसम, खेत में साफ-सफाई की कमी, और पौधों की कमजोरी के कारण यह कीट तेजी से फैलते हैं।",
+    "symptoms": [
+      "पत्तियों पर छोटे पीले या सफेद धब्बे दिखना।",
+      "पत्तियों के नीचे छोटे लाल या भूरे रंग के कीट (बिंदु जैसे) दिखना।",
+      "पत्तियों के नीचे या पौधों पर महीन जाले (जाल) बनना।",
+      "पत्तियां पीली पड़कर सूखने लगना और मुड़ जाना।"
+    ],
+    "organic_treatment": [
+      "नीम का तेल (5 मिलीलीटर प्रति लीटर पानी) मिलाकर पत्तियों पर छिड़काव करें, खासकर नीचे की तरफ।",
+      "साधारण साबुन या डिश सोप का घोल (5-10 ग्राम प्रति लीटर पानी) बनाकर छिड़काव करें।",
+      "पानी की तेज़ धार से पत्तियों को धोएं ताकि कीट बह जाएं, खासकर सुबह के समय।"
+    ],
+    "chemical_treatment": [
+      "फेंपिरोक्साइमेट (Fenpyroximate) या स्पाइरोमेसिफेन (Spiromesifen) युक्त माइटिसाइड का छिड़काव करें।",
+      "दवा की मात्रा के लिए बोतल पर दिए गए निर्देशों का पालन करें (पैकेज पर दिए निर्देशानुसार)।",
+      "छिड़काव पत्तियों के नीचे अच्छे से करें।"
+    ],
+    "prevention": [
+      "खेत की नियमित जांच करते रहें ताकि शुरुआती दौर में ही कीटों को पहचाना जा सके।",
+      "खेत और उसके आसपास खरपतवारों को साफ रखें, क्योंकि ये कीटों को छिपाने की जगह देते हैं।",
+      "पौधों को पर्याप्त और सही समय पर पानी दें, खासकर सूखे मौसम में।",
+      "पौधों के बीच उचित दूरी बनाए रखें ताकि हवा का संचार अच्छा हो।"
+    ],
+    "extra_tip": "प्रभावित पत्तों और टहनियों को तुरंत हटाकर नष्ट कर दें ताकि कीट फैलें नहीं। पौधों की नियमित पोषण की व्यवस्था करें ताकि वे मजबूत रहें।",
+    "warning": "छिड़काव करते समय हमेशा दस्ताने और मास्क पहनें। तेज धूप में या दिन के सबसे गर्म समय में छिड़काव न करें। यदि संक्रमण बहुत ज्यादा हो और नियंत्रित न हो पाए, तो तुरंत अपने नजदीकी कृषि विज्ञान केंद्र से सलाह लें।"
+  },
+  "prediction_Peach - Bacterial spot_hi": "आड़ू - जीवाणुजनित धब्बा",
+  "Peach___Bacterial_spot_solution_hi": {
+    "crop": "आड़ू",
+    "disease": "बैक्टीरियल स्पॉट (जीवाणु धब्बा)",
+    "cause": "यह एक जीवाणु (बैक्टीरिया) रोग है, जो ज़ैंथोमोनास कैंपेस्ट्रिस पीवी प्रूनी (Xanthomonas campestris pv. pruni) नामक जीवाणु के कारण होता है।",
+    "symptoms": [
+      "पत्तियों पर छोटे, पानी से भरे भूरे या काले धब्बे दिखाई देते हैं, जो बाद में गहरे रंग के हो जाते हैं और पत्ती के अंदर से गिर जाते हैं, जिससे पत्तियों में छेद हो जाते हैं।",
+      "फलों पर गहरे भूरे या काले, गोल धब्बे बनते हैं। ये धब्बे बाद में फट सकते हैं और इनसे गोंद जैसा पदार्थ निकल सकता है।",
+      "टहनियों पर भी काले धब्बे या घाव (कैंकर) बन सकते हैं, जिससे टहनियां सूख सकती हैं।"
+    ],
+    "organic_treatment": [
+      "संक्रमित पत्तियों, टहनियों और फलों को तुरंत तोड़कर खेत से दूर जला दें या गहरे गड्ढे में दबा दें।",
+      "नीम का तेल (5 मिली प्रति लीटर पानी) का घोल बनाकर पौधों पर छिड़काव करें। इसे हर 7-10 दिन में दोहराया जा सकता है।",
+      "खट्टी छाछ या दही का घोल (1 भाग छाछ + 5 भाग पानी) बनाकर पौधों पर छिड़काव करें। यह कुछ हद तक रोग को रोकने में मदद कर सकता है।"
+    ],
+    "chemical_treatment": [
+      "स्ट्रेप्टोसाइक्लिन (1 ग्राम) को कॉपर ऑक्सीक्लोराइड (30 ग्राम) के साथ 15 लीटर पानी में घोलकर पौधों पर छिड़काव करें।",
+      "पहला छिड़काव फूल आने से पहले करें और दूसरा छिड़काव फल लगने के बाद करें।",
+      "जरूरत पड़ने पर 15-20 दिन के अंतराल पर एक और छिड़काव किया जा सकता है।"
+    ],
+    "prevention": [
+      "हमेशा रोग-मुक्त और स्वस्थ पौधे लगाएं।",
+      "बाग की साफ-सफाई का विशेष ध्यान रखें। गिरी हुई पत्तियों और टहनियों को नियमित रूप से हटाते रहें।",
+      "पौधों के बीच उचित दूरी रखें ताकि हवा का संचार अच्छा हो और नमी न रुके।",
+      "यदि संभव हो, तो रोग प्रतिरोधी (रोग से लड़ने वाली) किस्मों का चुनाव करें।"
+    ],
+    "extra_tip": "यह रोग बारिश और अधिक नमी वाले मौसम में तेजी से फैलता है। सूखे मौसम में इसका फैलाव कम होता है।",
+    "warning": "छिड़काव करते समय हमेशा दस्ताने और मास्क जरूर पहनें। तेज धूप में छिड़काव न करें। यदि रोग बहुत गंभीर हो जाए, तो अपने नजदीकी कृषि विज्ञान केंद्र से सलाह जरूर लें।"
+  }
+}
