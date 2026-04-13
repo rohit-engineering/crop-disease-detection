@@ -8,8 +8,6 @@ import json
 import io
 import os
 
-from backend.disease_solutions import DISEASE_SOLUTIONS
-
 from dotenv import load_dotenv
 from google import genai
 
@@ -309,22 +307,6 @@ async def predict(
     warning = None
     if confidence_value < 0.70:
         warning = "⚠️ Low confidence prediction. Please upload a clear leaf image in good lighting."
-
-    # -----------------------------
-    # First try local database solution
-    # -----------------------------
-    solution_data = DISEASE_SOLUTIONS.get(raw_label, None)
-
-    if solution_data is not None:
-        return {
-            "prediction": translated_prediction,
-            "confidence": confidence_value,
-            "warning": warning,
-            "solution_source": "local_database",
-            "solution": solution_data,
-            "language_selected": language
-        }
-
     # -----------------------------
     # Gemini fallback
     # -----------------------------
