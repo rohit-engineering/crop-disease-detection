@@ -1,0 +1,210 @@
+{
+  "Corn_(maize)___Northern_Leaf_Blight_hi": {
+    "prediction": "मक्का की उत्तरी पत्ती झुलसा रोग",
+    "cause": "फफूंदी (Exserohilum turcicum) के कारण होता है",
+    "symptoms": [
+      "पत्तियों पर लंबे, भूरे धब्बे",
+      "धब्बों का बढ़ना और पत्तियों का सूखना",
+      "फसल की वृद्धि रुकना"
+    ],
+    "organic_treatment": [
+      "नीम के तेल का छिड़काव",
+      "गोमूत्र और हींग का मिश्रण छिड़कें"
+    ],
+    "chemical_treatment": [
+      "मैन्कोज़ेब या क्लोरोथैलोनिल का उपयोग",
+      "प्रोपिकोनाज़ोल या टेबुकोनाज़ोल का छिड़काव"
+    ],
+    "prevention": [
+      "रोग प्रतिरोधी किस्मों का चयन",
+      "फसल चक्र अपनाएं",
+      "खेत की सफाई रखें"
+    ],
+    "extra_tip": "संक्रमित पौधों को तुरंत हटा दें",
+    "warning": "दस्ताने और मास्क का उपयोग करें"
+  },
+  "Tomato___Target_Spot_bn": {
+    "prediction": "টমেটো টার্গেট স্পট",
+    "cause": "ছত্রাকের সংক্রমণ, বিশেষত Corynespora cassiicola দ্বারা। অতিরিক্ত আর্দ্রতা এবং গরম আবহাওয়া এই রোগের প্রাদুর্ভাব বাড়ায়।",
+    "symptoms": [
+      "টমেটো পাতায় গোলাকার বা ডিম্বাকার দাগ দেখা যায়, যা প্রাথমিকভাবে হালকা বাদামি থেকে গাঢ় বাদামি হয়।",
+      "দাগগুলি ধীরে ধীরে বড় হয়ে পাতার পুরো অংশ জুড়ে ছড়িয়ে পড়ে এবং শেষে পাতা শুকিয়ে যায়।"
+    ],
+    "organic_treatment": [
+      "নিম তেল বা নিমের নির্যাস স্প্রে করুন।",
+      "জৈব ছত্রাকনাশক যেমন বেকিং সোডা এবং পানির মিশ্রণ ব্যবহার করুন।"
+    ],
+    "chemical_treatment": [
+      "ম্যানকোজেব বা ক্লোরোথালোনিল জাতীয় ছত্রাকনাশক ব্যবহার করুন।",
+      "সিস্টেমিক ছত্রাকনাশক যেমন টেবুকোনাজোল প্রয়োগ করুন।"
+    ],
+    "prevention": [
+      "গাছের মধ্যে পর্যাপ্ত বায়ু চলাচল নিশ্চিত করুন।",
+      "অতিরিক্ত পানি দেওয়া এড়িয়ে চলুন এবং সকালে পানি দিন যাতে পাতা দ্রুত শুকিয়ে যায়।",
+      "সংক্রমিত গাছের অংশগুলি সংগ্রহ করে পুড়িয়ে ফেলুন।"
+    ],
+    "extra_tip": "রোগ প্রতিরোধের জন্য টমেটো গাছের চারপাশে পরিষ্কার-পরিচ্ছন্নতা বজায় রাখুন এবং আগাছা নিয়ন্ত্রণ করুন।",
+    "warning": "হ্যান্ড গ্লাভস এবং মাস্ক ব্যবহার করুন"
+  },
+  "Tomato___Target_Spot_en": {
+    "prediction": "Tomato Target Spot",
+    "cause": "Fungal infection caused by Corynespora cassiicola",
+    "symptoms": [
+      "Brown spots with concentric rings on leaves",
+      "Yellowing and wilting of leaves",
+      "Premature leaf drop"
+    ],
+    "organic_treatment": [
+      "Remove and destroy infected plant parts",
+      "Apply neem oil or copper-based fungicides",
+      "Use compost tea to boost plant immunity"
+    ],
+    "chemical_treatment": [
+      "Apply fungicides containing chlorothalonil or mancozeb",
+      "Follow manufacturer's instructions for application frequency"
+    ],
+    "prevention": [
+      "Rotate crops to avoid soil-borne pathogens",
+      "Ensure proper spacing for air circulation",
+      "Avoid overhead watering to reduce leaf wetness"
+    ],
+    "extra_tip": "Monitor plants regularly for early signs of infection",
+    "warning": "Use gloves and mask when applying chemical treatments"
+  },
+  "Tomato___Tomato_Yellow_Leaf_Curl_Virus_en": {
+    "prediction": "Tomato Yellow Leaf Curl Virus",
+    "cause": "Transmitted by whiteflies (Bemisia tabaci), infected plant debris, or contaminated tools.",
+    "symptoms": [
+      "Yellowing and curling of leaves",
+      "Stunted growth",
+      "Reduced fruit production",
+      "Leaf distortion"
+    ],
+    "organic_treatment": [
+      "Remove and destroy infected plants",
+      "Use yellow sticky traps to monitor and reduce whitefly population",
+      "Apply neem oil or insecticidal soap to control whiteflies",
+      "Introduce natural predators like ladybugs and lacewings"
+    ],
+    "chemical_treatment": [
+      "Apply systemic insecticides like imidacloprid or thiamethoxam",
+      "Use contact insecticides like pyrethroids for immediate whitefly control",
+      "Follow label instructions and safety precautions"
+    ],
+    "prevention": [
+      "Use resistant tomato varieties",
+      "Maintain proper plant spacing for air circulation",
+      "Remove weeds and alternate hosts of whiteflies",
+      "Cover plants with fine mesh nets to prevent whitefly access"
+    ],
+    "extra_tip": "Regularly inspect plants for early signs of infection to prevent spread.",
+    "warning": "Use gloves and mask when handling chemicals or infected plants."
+  },
+  "Tomato___Tomato_Yellow_Leaf_Curl_Virus_mr": {
+    "prediction": "टोमॅटो पिवळ्या पानांचा व्हायरस",
+    "cause": "व्हायरसचा संसर्ग, कीटकांद्वारे पसरणे",
+    "symptoms": [
+      "पाने पिवळी होणे",
+      "पानांवर वळणे",
+      "वाढ खुंटणे",
+      "फळांची वाढ रहित होणे"
+    ],
+    "organic_treatment": [
+      "नीम तेलाचा फवारा",
+      "लसण-मिरचीचा उपाय",
+      "जैविक कीटकनाशक वापर"
+    ],
+    "chemical_treatment": [
+      "इमिडाक्लोप्रिड वापर",
+      "अॅसिटामिप्रिडचा फवारा",
+      "व्हायरसनाशक औषधे"
+    ],
+    "prevention": [
+      "संक्रमित रोपे टाळा",
+      "कीटक नियंत्रण",
+      "शेत स्वच्छ ठेवा"
+    ],
+    "extra_tip": "आजारी झाडे लगेच काढून टाका",
+    "warning": "हातमोजे आणि मास्क वापरा"
+  },
+  "Tomato___Tomato_Yellow_Leaf_Curl_Virus_hi": {
+    "prediction": "टमाटर पीला पत्ती कर्ल वायरस",
+    "cause": "सफेद मक्खी द्वारा फैलाया गया वायरस",
+    "symptoms": [
+      "पत्तियों का पीला पड़ना",
+      "पत्तियों का कर्ल होना",
+      "पौधे की वृद्धि रुकना",
+      "फलों का छोटा रह जाना"
+    ],
+    "organic_treatment": [
+      "नीम के तेल का छिड़काव",
+      "लहसुन और मिर्च का घोल छिड़कें",
+      "संक्रमित पौधों को हटाकर जला दें"
+    ],
+    "chemical_treatment": [
+      "इमिडाक्लोप्रिड का उपयोग",
+      "एसिटामिप्रिड का छिड़काव",
+      "थायमेथोक्साम का प्रयोग"
+    ],
+    "prevention": [
+      "सफेद मक्खी को नियंत्रित करें",
+      "स्वस्थ पौधों का चयन करें",
+      "खेत की सफाई रखें",
+      "फसल चक्र अपनाएं"
+    ],
+    "extra_tip": "सुबह या शाम के समय छिड़काव करें ताकि पत्तियों को नुकसान न हो",
+    "warning": "दस्ताने और मास्क का उपयोग करें"
+  },
+  "Tomato___Tomato_Yellow_Leaf_Curl_Virus_gu": {
+    "prediction": "ટમાટર પીળા પર્ણ સર્પિલ વાઇરસ",
+    "cause": "વાઇરસ દ્વારા થતો રોગ, સફેદ માખી (Whitefly) દ્વારા ફેલાય છે.",
+    "symptoms": [
+      "પાન પીળા પડી જવું",
+      "પાન ઉપર સર્પિલ આકાર દેખાવા",
+      "ફળનું વિકાસ અટકી જવું",
+      "ઝાડનું વૃદ્ધિ રૂંધાઈ જવું"
+    ],
+    "organic_treatment": [
+      "નીમનું તેલ અથવા નીમનો કાઢો છંટકાવ કરો",
+      "લસણ-મરીનો કાઢો છંટકાવ કરો",
+      "સફેદ માખી નિયંત્રણ માટે પીળા ચિપકણા પત્રોનો ઉપયોગ કરો"
+    ],
+    "chemical_treatment": [
+      "ઇમિડાક્લોપ્રિડ (Imidacloprid) છંટકાવ કરો",
+      "એસિટામિપ્રિડ (Acetamiprid) છંટકાવ કરો",
+      "થાયમેથોક્સામ (Thiamethoxam) છંટકાવ કરો"
+    ],
+    "prevention": [
+      "રોગગ્રસ્ત છોડને તુરંત દૂર કરો અને જાળવો",
+      "સફેદ માખી નિયંત્રણ માટે જાળીવાળા ઘર (Net House) નો ઉપયોગ કરો",
+      "આસપાસ સ્વચ્છતા જાળવો"
+    ],
+    "extra_tip": "સવારે અથવા સાંજે છંટકાવ કરો જ્યારે સફેદ માખી સક્રિય હોય.",
+    "warning": "છંટકાવ કરતી વખતે હાથમોજા અને માસ્ક પહેરો"
+  },
+  "Tomato___Tomato_Yellow_Leaf_Curl_Virus_pa": {
+    "prediction": "ਟਮਾਟਰ ਪੀਲੇ ਪੱਤੇ ਕਰਲ ਵਾਇਰਸ",
+    "cause": "ਇਹ ਵਾਇਰਸ ਵਾਈਟਫਲਾਈ ਦੁਆਰਾ ਫੈਲਦਾ ਹੈ।",
+    "symptoms": [
+      "ਪੱਤਿਆਂ ਦਾ ਪੀਲਾ ਪੈਣਾ",
+      "ਪੱਤਿਆਂ ਦਾ ਕਰਲ ਹੋਣਾ",
+      "ਫਲਾਂ ਦਾ ਛੋਟਾ ਰਹਿ ਜਾਣਾ",
+      "ਪੌਦੇ ਦੀ ਵਾਧੇ ਰੁਕ ਜਾਣਾ"
+    ],
+    "organic_treatment": [
+      "ਵਾਈਟਫਲਾਈ ਨੂੰ ਨਿਯੰਤਰਿਤ ਕਰਨ ਲਈ ਨੀਮ ਦੇ ਤੇਲ ਦਾ ਛਿੜਕਾਅ ਕਰੋ",
+      "ਪੌਦਿਆਂ ਨੂੰ ਸਿਹਤਮੰਦ ਰੱਖਣ ਲਈ ਜੈਵਿਕ ਖਾਦ ਦੀ ਵਰਤੋਂ ਕਰੋ"
+    ],
+    "chemical_treatment": [
+      "ਇਮੀਡਾਕਲੋਪ੍ਰਿਡ ਜਾਂ ਥਿਆਮੇਥੋਕਸਾਮ ਵਰਗੇ ਕੀਟਨਾਸ਼ਕਾਂ ਦਾ ਛਿੜਕਾਅ ਕਰੋ",
+      "ਵਾਇਰਸ ਨੂੰ ਰੋਕਣ ਲਈ ਵਾਇਰਾਸਾਈਡ ਦੀ ਵਰਤੋਂ ਕਰੋ"
+    ],
+    "prevention": [
+      "ਵਾਈਟਫਲਾਈ ਨੂੰ ਰੋਕਣ ਲਈ ਪੀਲੇ ਸਟਿੱਕੀ ਟਰੈਪਾਂ ਦੀ ਵਰਤੋਂ ਕਰੋ",
+      "ਸਿਹਤਮੰਦ ਪੌਦੇ ਲਗਾਓ",
+      "ਖੇਤ ਨੂੰ ਸਾਫ਼ ਅਤੇ ਖਰਪਤਵਾਰ ਮੁਕਤ ਰੱਖੋ"
+    ],
+    "extra_tip": "ਵਾਈਟਫਲਾਈ ਦੀ ਆਬਾਦੀ ਨੂੰ ਕੰਟਰੋਲ ਕਰਨ ਲਈ ਨਿਯਮਿਤ ਤੌਰ 'ਤੇ ਖੇਤ ਦੀ ਨਿਗਰਾਨੀ ਕਰੋ।",
+    "warning": "ਦਸਤਾਨੇ ਅਤੇ ਮਾਸਕ ਦੀ ਵਰਤੋਂ ਕਰੋ"
+  }
+}
