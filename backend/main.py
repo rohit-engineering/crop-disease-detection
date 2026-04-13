@@ -8,7 +8,7 @@ import json
 import io
 import os
 
-from disease_solutions import DISEASE_SOLUTIONS
+from backend.disease_solutions import DISEASE_SOLUTIONS
 
 from dotenv import load_dotenv
 from google import genai
