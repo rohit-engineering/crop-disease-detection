@@ -1,3 +1,8 @@
+# ==========================================================
+# FINAL main.py
+# AUTO SWITCH MODELS + RETRY + CACHE + TRANSLATION + NO BLANK UI
+# ==========================================================
+
 from fastapi import FastAPI, UploadFile, File, Form
 from fastapi.middleware.cors import CORSMiddleware
 import torch
@@ -10,18 +15,15 @@ import os
 import requests
 from dotenv import load_dotenv
 
-# =====================================================
-# LOAD ENV
-# =====================================================
+# ==========================================================
+# ENV
+# ==========================================================
 load_dotenv()
-
 OPENROUTER_API_KEY = os.getenv("OPENROUTER_API_KEY")
 
-print("OpenRouter Loaded:", "YES" if OPENROUTER_API_KEY else "NO")
-
-# =====================================================
-# FASTAPI
-# =====================================================
+# ==========================================================
+# APP
+# ==========================================================
 app = FastAPI()
 
 app.add_middleware(
@@ -32,14 +34,11 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
-# =====================================================
-# BASE PATH
-# =====================================================
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 
-# =====================================================
-# LANGUAGE MAP
-# =====================================================
+# ==========================================================
+# LANGUAGES
+# ==========================================================
 LANG_MAP = {
     "en": "English",
     "hi": "Hindi",
@@ -52,9 +51,9 @@ LANG_MAP = {
     "pa": "Punjabi"
 }
 
-# =====================================================
+# ==========================================================
 # CACHE
-# =====================================================
+# ==========================================================
 CACHE_FILE = os.path.join(BASE_DIR, "ai_cache.json")
 
 if os.path.exists(CACHE_FILE):
@@ -66,15 +65,13 @@ if os.path.exists(CACHE_FILE):
 else:
     AI_CACHE = {}
 
-
 def save_cache():
     with open(CACHE_FILE, "w", encoding="utf-8") as f:
         json.dump(AI_CACHE, f, indent=2, ensure_ascii=False)
 
-
-# =====================================================
-# LOAD ML MODEL
-# =====================================================
+# ==========================================================
+# MODEL LOAD
+# ==========================================================
 with open(os.path.join(BASE_DIR, "class_names.json"), "r") as f:
     class_names = json.load(f)
 
@@ -97,68 +94,92 @@ model.load_state_dict(
 model = model.to(device)
 model.eval()
 
-# =====================================================
+# ==========================================================
 # IMAGE TRANSFORM
-# =====================================================
+# ==========================================================
 transform = transforms.Compose([
     transforms.Resize((224, 224)),
     transforms.ToTensor()
 ])
 
-
-# =====================================================
+# ==========================================================
 # HELPERS
-# =====================================================
+# ==========================================================
 def clean_json(text):
     return text.replace("```json", "").replace("```", "").strip()
 
+def fallback_solution(label):
+    return {
+        "prediction": label,
+        "cause": "Disease detected in crop leaf.",
+        "symptoms": [
+            "Leaf damage visible",
+            "Spots / yellowing present",
+            "Growth may reduce"
+        ],
+        "organic_treatment": [
+            "Use neem oil spray",
+            "Remove infected leaves"
+        ],
+        "chemical_treatment": [
+            "Use recommended fungicide",
+            "Consult agriculture shop"
+        ],
+        "prevention": [
+            "Keep field clean",
+            "Avoid excess water",
+            "Use healthy seeds"
+        ],
+        "extra_tip": "Upload clearer image for better AI result.",
+        "warning": "Use gloves during chemical spray."
+    }
 
-# =====================================================
-# OPENROUTER ONE CALL
-# =====================================================
+# ==========================================================
+# OPENROUTER MODELS
+# ==========================================================
+MODELS = [
+    "deepseek/deepseek-chat",
+    "openrouter/free",
+    "google/gemma-4-31b-it:free",
+    "nvidia/nemotron-3-super-120b-a12b:free"
+]
+
+# ==========================================================
+# AI SOLUTION
+# ==========================================================
 def get_ai_solution(raw_label, language):
 
-    selected_language = LANG_MAP.get(language, "Hindi")
-
+    selected_language = LANG_MAP.get(language, "English")
     cache_key = f"{raw_label}_{language}"
 
     if cache_key in AI_CACHE:
         return AI_CACHE[cache_key]
 
     if not OPENROUTER_API_KEY:
-        return {
-            "prediction": raw_label,
-            "cause": "API key missing.",
-            "symptoms": [],
-            "organic_treatment": [],
-            "chemical_treatment": [],
-            "prevention": [],
-            "extra_tip": "",
-            "warning": ""
-        }
+        return fallback_solution(raw_label)
 
     prompt = f"""
-You are agriculture expert AI.
+You are expert agriculture doctor AI.
 
-Disease detected: {raw_label}
+Detected disease: {raw_label}
 
-Give complete solution in {selected_language} language.
+Give complete treatment in {selected_language} language.
 
-Return ONLY JSON:
+Return ONLY valid JSON:
 
 {{
- "prediction":"Translated disease name",
- "cause":"Reason",
- "symptoms":["...","..."],
- "organic_treatment":["...","..."],
- "chemical_treatment":["...","..."],
- "prevention":["...","..."],
- "extra_tip":"Farmer tip",
- "warning":"Use gloves and mask"
+ "prediction":"translated disease name",
+ "cause":"short reason",
+ "symptoms":["point1","point2","point3"],
+ "organic_treatment":["point1","point2"],
+ "chemical_treatment":["point1","point2"],
+ "prevention":["point1","point2"],
+ "extra_tip":"farmer tip",
+ "warning":"safety warning"
 }}
 
 No markdown.
-No explanation.
+Only JSON.
 """
 
     headers = {
@@ -168,73 +189,70 @@ No explanation.
         "X-Title": "Crop Doctor AI"
     }
 
-    payload = {
-        "model": "deepseek/deepseek-chat",
-        "messages": [
-            {
-                "role": "user",
-                "content": prompt
+    for model_name in MODELS:
+
+        payload = {
+            "model": model_name,
+            "messages": [
+                {"role": "user", "content": prompt}
+            ],
+            "temperature": 0.3
+        }
+
+        try:
+            print("TRYING MODEL:", model_name)
+
+            response = requests.post(
+                "https://openrouter.ai/api/v1/chat/completions",
+                headers=headers,
+                json=payload,
+                timeout=45
+            )
+
+            data = response.json()
+            print("MODEL RESPONSE:", data)
+
+            if "choices" not in data:
+                continue
+
+            text = data["choices"][0]["message"]["content"]
+            text = clean_json(text)
+
+            parsed = json.loads(text)
+
+            final_data = {
+                "prediction": parsed.get("prediction", raw_label),
+                "cause": parsed.get("cause", ""),
+                "symptoms": parsed.get("symptoms", []),
+                "organic_treatment": parsed.get("organic_treatment", []),
+                "chemical_treatment": parsed.get("chemical_treatment", []),
+                "prevention": parsed.get("prevention", []),
+                "extra_tip": parsed.get("extra_tip", ""),
+                "warning": parsed.get("warning", "")
             }
-        ],
-        "temperature": 0.4
-    }
 
-    try:
-        response = requests.post(
-            "https://openrouter.ai/api/v1/chat/completions",
-            headers=headers,
-            json=payload,
-            timeout=30
-        )
+            if not final_data["symptoms"]:
+                continue
 
-        data = response.json()
+            AI_CACHE[cache_key] = final_data
+            save_cache()
 
-        text = data["choices"][0]["message"]["content"]
+            print("SUCCESS MODEL:", model_name)
 
-        text = clean_json(text)
+            return final_data
 
-        print("AI RAW:", text)
+        except Exception as e:
+            print("FAILED MODEL:", model_name, e)
+            continue
 
-        parsed = json.loads(text)
+    return fallback_solution(raw_label)
 
-        final_data = {
-            "prediction": parsed.get("prediction", raw_label),
-            "cause": parsed.get("cause", ""),
-            "symptoms": parsed.get("symptoms", []),
-            "organic_treatment": parsed.get("organic_treatment", []),
-            "chemical_treatment": parsed.get("chemical_treatment", []),
-            "prevention": parsed.get("prevention", []),
-            "extra_tip": parsed.get("extra_tip", ""),
-            "warning": parsed.get("warning", "")
-        }
-
-        AI_CACHE[cache_key] = final_data
-        save_cache()
-
-        return final_data
-
-    except Exception as e:
-        print("OpenRouter Error:", e)
-
-        return {
-            "prediction": raw_label,
-            "cause": "Solution unavailable.",
-            "symptoms": [],
-            "organic_treatment": [],
-            "chemical_treatment": [],
-            "prevention": [],
-            "extra_tip": "",
-            "warning": ""
-        }
-
-
-# =====================================================
+# ==========================================================
 # ROUTES
-# =====================================================
+# ==========================================================
 @app.get("/")
 def home():
-    return {"message": "Crop Doctor AI OpenRouter Running"}
-
+    return {"message": "Crop Doctor AI Running"}
 
 @app.post("/predict")
 async def predict(
@@ -265,7 +283,6 @@ async def predict(
     ai_data = get_ai_solution(raw_label, language)
 
     warning = None
-
     if confidence_val < 0.70:
         warning = "Low confidence. Upload clearer image."
 
@@ -285,3 +302,4 @@ async def predict(
         },
         "language_selected": language
     }
+

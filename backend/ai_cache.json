@@ -206,5 +206,76 @@
     ],
     "extra_tip": "ਵਾਈਟਫਲਾਈ ਦੀ ਆਬਾਦੀ ਨੂੰ ਕੰਟਰੋਲ ਕਰਨ ਲਈ ਨਿਯਮਿਤ ਤੌਰ 'ਤੇ ਖੇਤ ਦੀ ਨਿਗਰਾਨੀ ਕਰੋ।",
     "warning": "ਦਸਤਾਨੇ ਅਤੇ ਮਾਸਕ ਦੀ ਵਰਤੋਂ ਕਰੋ"
+  },
+  "Tomato___Early_blight_hi": {
+    "prediction": "टमाटर की अर्ली ब्लाइट बीमारी",
+    "cause": "फफूंदी (Alternaria solani) के कारण होती है, जो नम और गर्म मौसम में फैलती है।",
+    "symptoms": [
+      "पत्तियों पर भूरे रंग के धब्बे",
+      "धब्बों का बढ़कर गोलाकार होना",
+      "पत्तियों का पीला पड़कर गिरना"
+    ],
+    "organic_treatment": [
+      "नीम के तेल का छिड़काव (2-3 मिली प्रति लीटर पानी)",
+      "गोमूत्र और छाछ का मिश्रण (1:10 अनुपात) छिड़कें"
+    ],
+    "chemical_treatment": [
+      "मैन्कोज़ेब (2 ग्राम प्रति लीटर पानी) का छिड़काव",
+      "क्लोरोथैलोनिल (2 ग्राम प्रति लीटर पानी) का उपयोग"
+    ],
+    "prevention": [
+      "फसल चक्र अपनाएं",
+      "पौधों के बीच उचित दूरी रखें",
+      "संक्रमित पत्तियों को तुरंत हटा दें"
+    ],
+    "extra_tip": "सुबह के समय पानी दें ताकि पत्तियाँ जल्दी सूख जाएँ।",
+    "warning": "रसायनों का उपयोग करते समय सुरक्षात्मक उपकरण पहनें।"
+  },
+  "Tomato___Early_blight_pa": {
+    "prediction": "ਟਮਾਟਰ___ਅਰਲੀ_ਬਲਾਇਟ",
+    "cause": "ਫੰਗਸ ਦੀ ਵਜ੍ਹਾ ਨਾਲ ਹੁੰਦਾ ਹੈ, ਖਾਸ ਕਰਕੇ ਨਮੀ ਅਤੇ ਗਰਮ ਮੌਸਮ ਵਿੱਚ।",
+    "symptoms": [
+      "ਪੱਤਿਆਂ 'ਤੇ ਗੋਲ ਗੋਲ ਧੱਬੇ",
+      "ਧੱਬੇ ਪੀਲੇ ਤੋਂ ਭੂਰੇ ਰੰਗ ਦੇ ਹੋ ਸਕਦੇ ਹਨ",
+      "ਪੱਤੇ ਸੁੱਕ ਕੇ ਡਿੱਗਣ ਲੱਗਦੇ ਹਨ"
+    ],
+    "organic_treatment": [
+      "ਨੀਮ ਦੇ ਤੇਲ ਦਾ ਛਿੜਕਾਵ ਕਰੋ",
+      "ਲਹਿਸਨ ਅਤੇ ਮਿਰਚ ਦਾ ਘੋਲ ਬਣਾ ਕੇ ਸਪ੍ਰੇ ਕਰੋ"
+    ],
+    "chemical_treatment": [
+      "ਕਲੋਰੋਥੈਲੋਨਿਲ ਜਾਂ ਮੈਨਕੋਜ਼ੇਬ ਵਰਗੇ ਫੰਗੀਸਾਈਡ ਦੀ ਵਰਤੋਂ ਕਰੋ",
+      "ਬਾਇਕਾਰਬੋਨੇਟ ਦਾ ਛਿੜਕਾਵ ਕਰੋ"
+    ],
+    "prevention": [
+      "ਪੌਦਿਆਂ ਵਿੱਚ ਹਵਾ ਦਾ ਠੀਕ ਆਵਾਜਾਈ ਰੱਖੋ",
+      "ਪਾਣੀ ਦੇ ਛਿੜਕਾਵ ਸਮੇਂ ਪੱਤਿਆਂ ਨੂੰ ਗਿੱਲਾ ਨਾ ਹੋਣ ਦਿਓ"
+    ],
+    "extra_tip": "ਰੋਗ ਲੱਗੇ ਪੱਤਿਆਂ ਨੂੰ ਤੋੜ ਕੇ ਸਾੜ ਦਿਓ ਤਾਂ ਜੋ ਫੰਗਸ ਦਾ ਫੈਲਾਅ ਰੁਕ ਸਕੇ।",
+    "warning": "ਕੈਮੀਕਲ ਇਲਾਜ ਕਰਦੇ ਸਮੇਂ ਹਮੇਸ਼ਾ ਹੱਥਾਂ ਵਿੱਚ ਦਸਤਾਨੇ ਅਤੇ ਮੁੰਹ 'ਤੇ ਮਾਸਕ ਪਹਿਨੋ।"
+  },
+  "Tomato___Early_blight_en": {
+    "prediction": "Tomato Early Blight",
+    "cause": "Caused by the fungus Alternaria solani, thrives in warm, humid conditions.",
+    "symptoms": [
+      "Dark brown spots with concentric rings on lower leaves",
+      "Yellowing and wilting of leaves",
+      "Lesions may appear on stems and fruits"
+    ],
+    "organic_treatment": [
+      "Remove and destroy infected plant parts",
+      "Apply neem oil or copper-based fungicides"
+    ],
+    "chemical_treatment": [
+      "Use chlorothalonil or mancozeb-based fungicides",
+      "Follow manufacturer's instructions for application"
+    ],
+    "prevention": [
+      "Rotate crops to non-solanaceous plants for 2-3 years",
+      "Ensure proper spacing for air circulation",
+      "Water at the base to avoid wetting foliage"
+    ],
+    "extra_tip": "Early morning watering allows leaves to dry quickly, reducing fungal growth.",
+    "warning": "Wear protective gear when handling chemicals. Avoid application during windy conditions."
   }
 }
